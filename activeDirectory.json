@@ -1,0 +1,140 @@
+{
+               "children": [ {
+                  "date_added": "13353502999876354",
+                  "date_last_used": "0",
+                  "guid": "36e41d3a-6895-4cef-a820-51cfb7f89672",
+                  "id": "330",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "70-640 Active Directory Course - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PL1l78n6W8zypXtkh3uWIXbPssc4IGbfb5"
+               }, {
+                  "date_added": "13353503009960126",
+                  "date_last_used": "0",
+                  "guid": "f0d58227-73a4-4f8d-bd4a-8dcb4efb0252",
+                  "id": "331",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Crash Course, Active Directory, DHCP & DNS for Entry Level Tech Support - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=sndVKp6o_7M"
+               }, {
+                  "date_added": "13353503022608359",
+                  "date_last_used": "0",
+                  "guid": "f4d04b6b-7bb6-45c0-bab4-00e940910a80",
+                  "id": "332",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Identity and Access documentation | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/windows-server/identity/identity-and-access"
+               }, {
+                  "date_added": "13353503039340663",
+                  "date_last_used": "0",
+                  "guid": "4ada1784-e858-4be0-99aa-ced55cfb01d5",
+                  "id": "334",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Active Directory Domain Services - Training | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/"
+               }, {
+                  "date_added": "13353503190142924",
+                  "date_last_used": "0",
+                  "guid": "8298545b-1af3-42f9-86c9-373c1be0ec90",
+                  "id": "335",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Windows Active Directory - Windows Active Directory",
+                  "type": "url",
+                  "url": "https://www.windows-active-directory.com/"
+               }, {
+                  "children": [ {
+                     "date_added": "13353793324662107",
+                     "date_last_used": "0",
+                     "guid": "cbcfd3c5-a5fb-4985-ade6-ab630573fe9b",
+                     "id": "354",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Entra ID/Azure AD Videos - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLlVtbbG169nHdXukhQtg62RTqgoUmfYnY"
+                  }, {
+                     "date_added": "13353792890864375",
+                     "date_last_used": "0",
+                     "guid": "cb8b3d47-13da-408e-99a0-18a4604e8f1d",
+                     "id": "353",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Azure AD Overview - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=EUVKEhiHYG0"
+                  } ],
+                  "date_added": "13353503260050971",
+                  "date_last_used": "0",
+                  "date_modified": "13354035009282071",
+                  "guid": "ab1fee65-3dca-4a7c-a73e-27ac9258c3aa",
+                  "id": "337",
+                  "name": "entra ID",
+                  "type": "folder"
+               }, {
+                  "date_added": "13353583569030851",
+                  "date_last_used": "0",
+                  "guid": "b33bd88d-46aa-4e24-b049-38354a4b85e5",
+                  "id": "343",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Claim Based Identity Systems - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Z1uDphoK0BI&list=PL1l78n6W8zyosgDWYzKktsMmVrd69pU_U"
+               }, {
+                  "date_added": "13353583583366571",
+                  "date_last_used": "0",
+                  "guid": "8156f6fc-0ce6-48cc-8d38-f2564174a405",
+                  "id": "344",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=88cFajRXR6w&list=PL1l78n6W8zyoHaMUp-lKFwXB8dXITH8t-"
+               }, {
+                  "date_added": "13354018560826354",
+                  "date_last_used": "0",
+                  "guid": "4bc727de-89aa-43ca-a58a-1ba028a9bea3",
+                  "id": "356",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Kerberos Explained (In 3 Levels Of Detail) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=snGeZlDQL2Q&list=PLg8m_3b0OrThqrYRCiDzLcdjEu2z5k_n7"
+               }, {
+                  "date_added": "13354032459196327",
+                  "date_last_used": "0",
+                  "guid": "5053f227-b2f0-47ff-831f-c7c6dca07a72",
+                  "id": "357",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "OAuth 2.0 and OpenID Connect (in plain English) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=996OiexHze0"
+               } ],
+               "date_added": "13353502981732763",
+               "date_last_used": "0",
+               "date_modified": "13354032459196327",
+               "guid": "23d68c19-e429-479a-bafa-fabab54f184a",
+               "id": "329",
+               "name": "active directory",
+               "type": "folder"
+            }
