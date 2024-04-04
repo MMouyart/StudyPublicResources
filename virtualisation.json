@@ -1,0 +1,714 @@
+{
+            "children": [ {
+               "date_added": "13354042087933508",
+               "date_last_used": "0",
+               "guid": "0825d12a-bb10-4435-96a6-cb8ad380f90b",
+               "id": "363",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "youtube.com/playlist?list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC"
+            }, {
+               "date_added": "13354042044825903",
+               "date_last_used": "0",
+               "guid": "de0ffe9a-c695-4065-8912-d0389cbd0845",
+               "id": "361",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Virtualization and Cloud Computing lectures - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLDW872573QAbcpQ7VSUdcm4o3tgnQYBE8"
+            }, {
+               "date_added": "13354207219796532",
+               "date_last_used": "0",
+               "guid": "92b5514d-fda0-4eac-b971-0f5741494786",
+               "id": "380",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Virtualization and Cloud Computing",
+               "type": "url",
+               "url": "https://www.cse.iitb.ac.in/~mythili/virtcc/"
+            }, {
+               "date_added": "13354216051004763",
+               "date_last_used": "0",
+               "guid": "de38c2a8-7d31-45ca-a2d1-d2eb5877be0a",
+               "id": "384",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "TPM (Trusted Platform Module) - Computerphile - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RW2zHvVO09g"
+            }, {
+               "children": [ {
+                  "date_added": "13354210350592727",
+                  "date_last_used": "0",
+                  "guid": "b040a088-30b9-4bf9-aa4d-bf82d36b26f7",
+                  "id": "382",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Removing the Mystery of Hyper-V Checkpoints - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=IeIz02njY70&list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC&index=9"
+               }, {
+                  "date_added": "13354207342767888",
+                  "date_last_used": "0",
+                  "guid": "09145431-f28b-411a-90f2-528571bbe7b6",
+                  "id": "381",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Windows Server Hyper-V and Virtualization - Training | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/training/paths/windows-server-hyper-v-virtualization/"
+               }, {
+                  "date_added": "13354207211462659",
+                  "date_last_used": "0",
+                  "guid": "60db8883-678d-490a-8ff1-067374b9ddbc",
+                  "id": "379",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "42 Best Practices for Balanced Hyper-V Systems",
+                  "type": "url",
+                  "url": "https://www.altaro.com/hyper-v/42-best-practices-balanced-hyper-v-systems/"
+               }, {
+                  "date_added": "13354193630870152",
+                  "date_last_used": "0",
+                  "guid": "792f9401-08cd-4e5e-a221-114f9ffd59c9",
+                  "id": "376",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Hyper-V Performance Wizardry: IT Admins and Virtual Machine Maximizing - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=hPqoPtUjQa8&list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC&index=6"
+               }, {
+                  "date_added": "13354194680608236",
+                  "date_last_used": "0",
+                  "guid": "eb584f62-5297-42c0-a89c-cb3b683bd694",
+                  "id": "377",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Demystifying Virtual Machines: IT Admins' Guide to Hyper-V - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=cQl_3HmB9gw&list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC&index=5"
+               }, {
+                  "date_added": "13354207147989302",
+                  "date_last_used": "0",
+                  "guid": "97026ea8-434f-4957-9a63-3bf6ab1b96d3",
+                  "id": "378",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Hyper-V Performance and Security 101: A Comprehensive Guide for IT Pros - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=nu8dfQFuGzs&list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC&index=6"
+               }, {
+                  "date_added": "13354210360001132",
+                  "date_last_used": "0",
+                  "guid": "95f3f4b5-49df-4704-899e-60e0bf230e5f",
+                  "id": "383",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "youtube.com/watch?v=0yzkWo8Z-FA&list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC&index=8",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=0yzkWo8Z-FA&list=PLsoPy7S6vUtFPuWJpZsGIbH_RPeLZJXfC&index=8"
+               } ],
+               "date_added": "13354283411073482",
+               "date_last_used": "0",
+               "date_modified": "13354283491582754",
+               "guid": "174781ea-4419-440e-afe1-97912e3f22fb",
+               "id": "387",
+               "name": "hyper-v",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354283398323678",
+                  "date_last_used": "0",
+                  "guid": "655d6746-866f-4163-ba77-f48df8ab3a58",
+                  "id": "386",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Everything to know about VMware - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLX2PHIbcBY0FFn2zolnFCwhvr_5J0pK23"
+               } ],
+               "date_added": "13354283417343115",
+               "date_last_used": "0",
+               "date_modified": "13354283435535583",
+               "guid": "c0edb986-8fb1-4aa8-a055-8557894c7b57",
+               "id": "388",
+               "name": "vmware",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354294116292517",
+                  "date_last_used": "0",
+                  "guid": "a7973ea9-0c7b-410a-841f-c61637fba525",
+                  "id": "390",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Let's Install Proxmox 8.0! - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=sZcOlW-DwrU"
+               }, {
+                  "date_added": "13354295504645935",
+                  "date_last_used": "0",
+                  "guid": "2898ab5e-80be-4a33-85bb-d2f09ff6874c",
+                  "id": "391",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Proxmox 7.1 Guide: From blank system to Hypervisor - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Ce0uwBxbVRQ"
+               }, {
+                  "date_added": "13354303636604161",
+                  "date_last_used": "0",
+                  "guid": "d405f3e1-42c5-4189-b59e-e7d2fe8e59a7",
+                  "id": "392",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Proxmox Backup Server Tour and My Experiences with PBS - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=r7WDulNGV0E&list=PLJQq8OIYEuA5DI2-CwV5hrYt_pfGXuapZ&index=4"
+               } ],
+               "date_added": "13354283512354927",
+               "date_last_used": "0",
+               "date_modified": "13354305255888440",
+               "guid": "e5e0b28f-52ab-439f-870f-3e74caf2c7af",
+               "id": "389",
+               "name": "proxmox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354383540931470",
+                  "date_last_used": "0",
+                  "guid": "7755c11d-e15d-4840-aabb-78aa78cf9c69",
+                  "id": "397",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Virtualization and Cloud Computing Lecture 11: Containers - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=4BG-hE72r_I&list=PLDW872573QAbcpQ7VSUdcm4o3tgnQYBE8&index=17"
+               }, {
+                  "children": [ {
+                     "date_added": "13354619845608087",
+                     "date_last_used": "0",
+                     "guid": "8917642d-7f52-4cd3-b659-2a3f64317468",
+                     "id": "402",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Docker Crash Course for Absolute Beginners [NEW] - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=pg19Z8LL06w"
+                  }, {
+                     "date_added": "13354619854195586",
+                     "date_last_used": "0",
+                     "guid": "70134843-c850-4f4d-b8b4-b5fa1d03b235",
+                     "id": "403",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=3c-iBn73dDE"
+                  }, {
+                     "date_added": "13354619858131936",
+                     "date_last_used": "0",
+                     "guid": "ec742b1f-d26d-47a2-b711-b2b1d3061c02",
+                     "id": "404",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Docker Tutorial for Beginners - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs"
+                  }, {
+                     "date_added": "13354627127548029",
+                     "date_last_used": "0",
+                     "guid": "61058899-6f04-4737-986e-8b9c1583b946",
+                     "id": "405",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Dockerfile cheat sheet. Dockerfile cheat sheet | by Omid Asadpour | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/@oap.py/dockerfile-cheat-sheet-4ad12569aa0b"
+                  }, {
+                     "date_added": "13354627137276218",
+                     "date_last_used": "0",
+                     "guid": "8b68d85d-9539-4402-8046-afc53e28fa0f",
+                     "id": "406",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "docker_cheatsheet.pdf",
+                     "type": "url",
+                     "url": "https://docs.docker.com/get-started/docker_cheatsheet.pdf"
+                  }, {
+                     "date_added": "13354627165764855",
+                     "date_last_used": "0",
+                     "guid": "788d5644-9d32-448c-a064-67a07504bcdd",
+                     "id": "407",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Dockerfile cheatsheet",
+                     "type": "url",
+                     "url": "https://devhints.io/dockerfile"
+                  }, {
+                     "date_added": "13354710700023034",
+                     "date_last_used": "0",
+                     "guid": "472ad91c-4c27-4f4a-8b58-7187ffc0772b",
+                     "id": "411",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Docker Tutorials - NetworkChuck - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLIhvC56v63IJlnU4k60d0oFIrsbXEivQo"
+                  }, {
+                     "date_added": "13354711125803255",
+                     "date_last_used": "0",
+                     "guid": "02dd0f7a-b739-4355-b5fb-e744c1bde364",
+                     "id": "412",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Docker networking is CRAZY!! (you NEED to learn it) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=bKFMS5C4CG0&list=PLIhvC56v63IJlnU4k60d0oFIrsbXEivQo&index=4"
+                  }, {
+                     "children": [ {
+                        "date_added": "13356711454471452",
+                        "date_last_used": "0",
+                        "guid": "80f53a8b-f32e-4355-bd8f-5dee0e78dc7a",
+                        "id": "456",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Docker Swarm - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/playlist?list=PLLhEJK7fQIxAY4gZd1Wl-GsLvg-e9Ap1e"
+                     } ],
+                     "date_added": "13356711451532221",
+                     "date_last_used": "0",
+                     "date_modified": "13356711457251234",
+                     "guid": "86a56c88-b952-470a-bcc6-79a43dc19c0c",
+                     "id": "455",
+                     "name": "swarm",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13354386591152468",
+                  "date_last_used": "0",
+                  "date_modified": "13356711454471452",
+                  "guid": "2761f0b2-75be-4f0d-8568-dc6a091cb0bc",
+                  "id": "399",
+                  "name": "docker",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13354993125174526",
+                     "date_last_used": "0",
+                     "guid": "32413220-3b7f-40da-ac6a-1fb4a7b1ba62",
+                     "id": "420",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Certified Kubernetes Security Specialist (CKS) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLFkEchqXDZx6Bw3B2NRVc499j1TavjOvm"
+                  }, {
+                     "date_added": "13355245339186740",
+                     "date_last_used": "0",
+                     "guid": "bb7b5774-3699-4051-8a5d-227f1e7fa8dc",
+                     "id": "425",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "kind",
+                     "type": "url",
+                     "url": "https://kind.sigs.k8s.io/"
+                  }, {
+                     "date_added": "13355405000636615",
+                     "date_last_used": "0",
+                     "guid": "fb11f10a-4e5c-49c8-a580-73b89fc5deed",
+                     "id": "428",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Kubectl Reference Docs",
+                     "type": "url",
+                     "url": "https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands"
+                  }, {
+                     "children": [ {
+                        "date_added": "13354722999454490",
+                        "date_last_used": "0",
+                        "guid": "f300fec3-abf4-4424-86fb-df3326fcc9fe",
+                        "id": "413",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Kubernetes Crash Course for Absolute Beginners [NEW] - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=s_o8dwzRlu4"
+                     }, {
+                        "date_added": "13354723007989234",
+                        "date_last_used": "0",
+                        "guid": "4a7105cf-0da2-4904-a030-ce8cc31adafd",
+                        "id": "414",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=X48VuDVv0do"
+                     }, {
+                        "date_added": "13354989807166275",
+                        "date_last_used": "0",
+                        "guid": "ae93d419-67ca-459e-b3e1-5b363fc2b545",
+                        "id": "416",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Kubernetes Security Best Practices you need to know | THE Guide for securing your K8s cluster! - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=oBf5lrmquYI"
+                     }, {
+                        "date_added": "13354992962555963",
+                        "date_last_used": "0",
+                        "guid": "78315d23-3645-4c31-b847-904967b27f78",
+                        "id": "417",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Managed Kubernetes Cluster explained | Kubernetes on Cloud (1/2) - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=k-V3_zxRasM"
+                     }, {
+                        "date_added": "13354992998014901",
+                        "date_last_used": "0",
+                        "guid": "da8509d0-173d-4de5-a42d-9c78a8e096ec",
+                        "id": "418",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Istio & Service Mesh - simply explained in 15 mins - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=16fgzklcF7Y"
+                     }, {
+                        "date_added": "13354993002058937",
+                        "date_last_used": "0",
+                        "guid": "9f964d34-eb65-479f-bf4a-0be36aeb7a5d",
+                        "id": "419",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Istio Setup in Kubernetes | Step by Step Guide to install Istio Service Mesh - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=voAyroDb6xk"
+                     } ],
+                     "date_added": "13355431281301277",
+                     "date_last_used": "0",
+                     "date_modified": "13355431289386378",
+                     "guid": "3d6aec1f-c9a1-416b-96c6-693147824bbb",
+                     "id": "433",
+                     "name": "tutorials",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355430631738435",
+                        "date_last_used": "0",
+                        "guid": "4e06d833-420a-49ad-8c89-44918b86b0ce",
+                        "id": "429",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "How does Kubernetes' scheduler work? - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/28857993/how-does-kubernetes-scheduler-work"
+                     }, {
+                        "date_added": "13355430640174450",
+                        "date_last_used": "0",
+                        "guid": "83610f93-6410-4aff-af74-e7e28b003cf9",
+                        "id": "430",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "How does the Kubernetes scheduler work?",
+                        "type": "url",
+                        "url": "https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/"
+                     }, {
+                        "date_added": "13355430643742565",
+                        "date_last_used": "0",
+                        "guid": "88936812-44a0-4840-96e3-18cd62f12805",
+                        "id": "431",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Advanced Scheduling in Kubernetes | Kubernetes",
+                        "type": "url",
+                        "url": "https://kubernetes.io/blog/2017/03/advanced-scheduling-in-kubernetes/"
+                     }, {
+                        "date_added": "13355242168342116",
+                        "date_last_used": "0",
+                        "guid": "58a1ae3a-d5b0-4ab8-b40e-ffa30161a3d4",
+                        "id": "423",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - mmumshad/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Vagrant on Local Machine. No scripts.",
+                        "type": "url",
+                        "url": "https://github.com/mmumshad/kubernetes-the-hard-way"
+                     }, {
+                        "date_added": "13355500656301613",
+                        "date_last_used": "0",
+                        "guid": "f113904e-cc50-42cf-bd4f-c81bb40342b4",
+                        "id": "438",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Encrypting Confidential Data at Rest | Kubernetes",
+                        "type": "url",
+                        "url": "https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/"
+                     }, {
+                        "date_added": "13355505287494816",
+                        "date_last_used": "0",
+                        "guid": "43e32709-945b-4b87-8c0f-e3dfebb22d88",
+                        "id": "439",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Init Containers | Kubernetes",
+                        "type": "url",
+                        "url": "https://kubernetes.io/docs/concepts/workloads/pods/init-containers/"
+                     }, {
+                        "date_added": "13355834158478034",
+                        "date_last_used": "0",
+                        "guid": "f06f0261-55d3-47c3-a22e-aed33b4fddb9",
+                        "id": "443",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "dns/docs/specification.md at master · kubernetes/dns · GitHub",
+                        "type": "url",
+                        "url": "https://github.com/kubernetes/dns/blob/master/docs/specification.md"
+                     }, {
+                        "date_added": "13355834165284229",
+                        "date_last_used": "0",
+                        "guid": "5fa2a66e-54b8-4ea7-8403-0d187d677f57",
+                        "id": "444",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "kubernetes",
+                        "type": "url",
+                        "url": "https://coredns.io/plugins/kubernetes/"
+                     }, {
+                        "date_added": "13355936750852539",
+                        "date_last_used": "0",
+                        "guid": "46f1b2d7-2aac-421f-9fd3-c7e421e5a19f",
+                        "id": "446",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Debugging DNS Resolution | Kubernetes",
+                        "type": "url",
+                        "url": "https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/"
+                     }, {
+                        "date_added": "13355936754688562",
+                        "date_last_used": "0",
+                        "guid": "4f02e58c-c65a-44bf-a89b-ed51aa8bbb1a",
+                        "id": "447",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Debug Services | Kubernetes",
+                        "type": "url",
+                        "url": "https://kubernetes.io/docs/tasks/debug/debug-application/debug-service/"
+                     } ],
+                     "date_added": "13355431314294778",
+                     "date_last_used": "0",
+                     "date_modified": "13356035142339283",
+                     "guid": "df101879-09e3-4fee-9541-3978ad8aabe1",
+                     "id": "434",
+                     "name": "advanced",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13355227227709378",
+                        "date_last_used": "0",
+                        "guid": "49852601-b894-4e87-a6f2-7b1760efd9a3",
+                        "id": "422",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Comment passer et réussir la certification Kubernetes CKA ?",
+                        "type": "url",
+                        "url": "https://blog.wescale.fr/passer-et-reussir-la-cka"
+                     }, {
+                        "date_added": "13355242209272007",
+                        "date_last_used": "0",
+                        "guid": "666c6066-c8b6-41e4-a082-490cc349b9d5",
+                        "id": "424",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - kodekloudhub/certified-kubernetes-administrator-course: Certified Kubernetes Administrator - CKA Course",
+                        "type": "url",
+                        "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course"
+                     }, {
+                        "date_added": "13355401524965262",
+                        "date_last_used": "0",
+                        "guid": "e1c852ff-7132-4338-af84-5c6eae666c69",
+                        "id": "427",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Udemy Labs - Certified Kubernetes Administrator with Practice Tests Course | KodeKloud",
+                        "type": "url",
+                        "url": "https://beta.kodekloud.com/user/courses/udemy-labs-certified-kubernetes-administrator-with-practice-tests"
+                     }, {
+                        "date_added": "13355431051074781",
+                        "date_last_used": "0",
+                        "guid": "18cee6f6-a781-419c-ac2e-c6706b45cf64",
+                        "id": "432",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+                        "type": "url",
+                        "url": "https://cloudchamp.notion.site/How-I-Passed-my-CKA-Exam-55fef633b454438aadc54a7261312ec9"
+                     }, {
+                        "date_added": "13356035142339283",
+                        "date_last_used": "0",
+                        "guid": "bba0ce52-1593-44e2-b62c-13edc8933a40",
+                        "id": "449",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "GitHub - ahmetb/kubernetes-network-policy-recipes: Example recipes for Kubernetes Network Policies that you can just copy paste",
+                        "type": "url",
+                        "url": "https://github.com/ahmetb/kubernetes-network-policy-recipes/tree/master"
+                     }, {
+                        "date_added": "13356087645571622",
+                        "date_last_used": "0",
+                        "guid": "c641bcb8-7db6-40e0-af70-17b9a903d3e9",
+                        "id": "451",
+                        "meta_info": {
+                           "power_bookmark_meta": ""
+                        },
+                        "name": "Killercoda Interactive Environments",
+                        "type": "url",
+                        "url": "https://killercoda.com/playgrounds/scenario/cka"
+                     } ],
+                     "date_added": "13355431335879975",
+                     "date_last_used": "0",
+                     "date_modified": "13356087645571622",
+                     "guid": "a4c20ef1-938e-4620-82ff-fc4b4758ae17",
+                     "id": "435",
+                     "name": "CKA",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13355431362152255",
+                     "date_last_used": "0",
+                     "guid": "ffee129e-e148-4edc-92fc-f6c2e6b73571",
+                     "id": "436",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Kubernetes Documentation | Kubernetes",
+                     "type": "url",
+                     "url": "https://kubernetes.io/docs/home/"
+                  }, {
+                     "date_added": "13355602008483770",
+                     "date_last_used": "0",
+                     "guid": "4f6bace8-8087-441e-b936-ebfce2ed41fe",
+                     "id": "441",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "GitHub - ahmetb/kubectx: Faster way to switch between clusters and namespaces in kubectl",
+                     "type": "url",
+                     "url": "https://github.com/ahmetb/kubectx"
+                  } ],
+                  "date_added": "13354386596822190",
+                  "date_last_used": "0",
+                  "date_modified": "13355834158478034",
+                  "guid": "4b7a377a-fa01-44be-8f8b-a82412ddee7c",
+                  "id": "400",
+                  "name": "kubernetes",
+                  "type": "folder"
+               }, {
+                  "date_added": "13354637679409704",
+                  "date_last_used": "0",
+                  "guid": "e4d34371-9b07-4f81-bf8e-1075742a910c",
+                  "id": "408",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Anatomy of a Container: Namespaces, cgroups & Some Filesystem Magic - LinuxCon | PPT",
+                  "type": "url",
+                  "url": "https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon"
+               }, {
+                  "date_added": "13354710330428652",
+                  "date_last_used": "0",
+                  "guid": "09d6781a-e48b-4cdc-b31b-a65dffb0867b",
+                  "id": "410",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "GitHub - nicolaka/netshoot: a Docker + Kubernetes network trouble-shooting swiss-army container",
+                  "type": "url",
+                  "url": "https://github.com/nicolaka/netshoot"
+               }, {
+                  "children": [ {
+                     "date_added": "13356711341604490",
+                     "date_last_used": "0",
+                     "guid": "bfb8089e-5010-41b4-9e1b-e44921145801",
+                     "id": "454",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "LXD Virtualization on Ubuntu Linux - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLDbRgZ0OOEpX_uqK_hAq98ltdc4DP-D34"
+                  } ],
+                  "date_added": "13356711337880037",
+                  "date_last_used": "0",
+                  "date_modified": "13356711344171843",
+                  "guid": "5a4eefb3-7d2c-42b8-bf19-e6c99df28c1a",
+                  "id": "453",
+                  "name": "lxd",
+                  "type": "folder"
+               } ],
+               "date_added": "13354383561063650",
+               "date_last_used": "0",
+               "date_modified": "13356711341604490",
+               "guid": "bade265e-3722-410b-a085-5ea66bb2d041",
+               "id": "398",
+               "name": "containers",
+               "type": "folder"
+            } ],
+            "date_added": "13354042076571867",
+            "date_last_used": "0",
+            "date_modified": "13354383561063978",
+            "guid": "094ed261-0953-44f2-b140-66f48865742b",
+            "id": "362",
+            "name": "virtualisation",
+            "type": "folder"
+         }
