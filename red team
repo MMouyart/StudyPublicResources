@@ -1,0 +1,106 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "date_added": "13310749909237031",
+          "date_last_used": "0",
+          "guid": "5859c1e9-d580-46e5-904f-45638696d190",
+          "id": "18",
+          "name": "0xInfection (0xInfection) / Repositories · GitHub",
+          "type": "url",
+          "url": "https://github.com/0xInfection?tab=repositories"
+        },
+        {
+          "date_added": "13310749928366910",
+          "date_last_used": "0",
+          "guid": "c3cbf02c-5f45-4a66-94d0-1da408301e4e",
+          "id": "19",
+          "name": "0xInfection's Blog — Random ramblings of an Infected Geek.",
+          "type": "url",
+          "url": "https://0xinfection.github.io/"
+        },
+        {
+          "date_added": "13310754372928204",
+          "date_last_used": "0",
+          "guid": "eeab528f-103f-4cd1-a2a3-8dfdbc08d2a9",
+          "id": "21",
+          "name": "GitHub - mytechnotalent/Reverse-Engineering: A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+          "type": "url",
+          "url": "https://github.com/mytechnotalent/Reverse-Engineering"
+        },
+        {
+          "date_added": "13310756243934839",
+          "date_last_used": "0",
+          "guid": "25e15a06-9a1b-41d9-9af4-df685f0f865b",
+          "id": "23",
+          "name": "hackndo - Think out of the box",
+          "type": "url",
+          "url": "https://beta.hackndo.com/"
+        },
+        {
+          "date_added": "13320610006396713",
+          "date_last_used": "0",
+          "guid": "c1fab665-445f-4162-94b8-0110dfb0aed6",
+          "id": "135",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Moteur de recherche de données Internet pour les chercheurs en sécurité",
+          "type": "url",
+          "url": "https://geekflare.com/fr/search-engine-for-security/"
+        },
+        {
+          "date_added": "13338054457997569",
+          "date_last_used": "0",
+          "guid": "13cc65df-821f-4c5e-890f-ffe8035522f2",
+          "id": "235",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GTFOBins",
+          "type": "url",
+          "url": "https://gtfobins.github.io/"
+        },
+        {
+          "date_added": "13338292959829198",
+          "date_last_used": "0",
+          "guid": "b46ca221-4ef9-4e35-a2e5-df58c8ada41f",
+          "id": "237",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "PayloadsAllTheThings/Methodology and Resources/Reverse Shell Cheatsheet.md at master · swisskyrepo/PayloadsAllTheThings · GitHub",
+          "type": "url",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md"
+        },
+        {
+          "date_added": "13340190993846006",
+          "date_last_used": "0",
+          "guid": "74be6d99-ea17-4de5-bec5-aefc28beddcf",
+          "id": "252",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Bashfuscator - The Art of Concealing Bash Scripts",
+          "type": "url",
+          "url": "https://kalilinuxtutorials.com/bashfuscator/"
+        }
+      ],
+      "date_added": "13354192800391461",
+      "date_last_used": "0",
+      "date_modified": "13354192847450039",
+      "guid": "cee8d60c-2802-4396-a267-032fbb96736b",
+      "id": "375",
+      "name": "Tools",
+      "type": "folder"
+    }
+  ],
+  "date_added": "13313424601739595",
+  "date_last_used": "0",
+  "date_modified": "13354192800391603",
+  "guid": "fd305061-1976-43e7-ac68-a8c895d4da04",
+  "id": "37",
+  "name": "red team",
+  "type": "folder"
+}
