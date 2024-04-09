@@ -1,0 +1,81 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "date_added": "13357139476891987",
+          "date_last_used": "0",
+          "guid": "61e2673a-6480-4762-8714-618f0a6133d9",
+          "id": "465",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Ansible Full Course | Zero to Hero - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=GROqwFFLl3s"
+        },
+        {
+          "date_added": "13357139622146601",
+          "date_last_used": "0",
+          "guid": "a484cefc-1030-4772-afec-36b2c306f7a8",
+          "id": "466",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Ansible Documentation — Ansible Community Documentation",
+          "type": "url",
+          "url": "https://docs.ansible.com/ansible/latest/index.html"
+        },
+        {
+          "date_added": "13357143204926234",
+          "date_last_used": "0",
+          "guid": "116bb5e2-018c-45e9-868f-3599a3ee57f6",
+          "id": "468",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitHub - rahulwagh/ansible-examples",
+          "type": "url",
+          "url": "https://github.com/rahulwagh/ansible-examples"
+        }
+      ],
+      "date_added": "13357139466630585",
+      "date_last_used": "0",
+      "date_modified": "13357143207386187",
+      "guid": "cb6259e5-9d71-493f-9779-a3f75c398eec",
+      "id": "463",
+      "name": "Ansible",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13357141409865403",
+          "date_last_used": "0",
+          "guid": "2a34ca7b-75ad-41ca-a880-b8655c119648",
+          "id": "467",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "HashiCorp Terraform Associate Certification Course (003) - Full Course | Pass Exam - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=OHzZ7KuioMA"
+        }
+      ],
+      "date_added": "13357139472920831",
+      "date_last_used": "0",
+      "date_modified": "13357143204926234",
+      "guid": "b5bdbff2-28f7-4efe-bb0a-33ec62c4565a",
+      "id": "464",
+      "name": "Terraform",
+      "type": "folder"
+    }
+  ],
+  "date_added": "13357139461020109",
+  "date_last_used": "0",
+  "date_modified": "13357139476891987",
+  "guid": "1da04b26-9d56-4421-9f4e-195987c5ca85",
+  "id": "462",
+  "name": "IaaC",
+  "type": "folder"
+}

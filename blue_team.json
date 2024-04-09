@@ -1,0 +1,484 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "date_added": "13342375131445849",
+          "date_last_used": "0",
+          "guid": "7ca0170c-67d0-495d-830b-7fba6126df01",
+          "id": "271",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "BrowserAudit",
+          "type": "url",
+          "url": "https://browseraudit.com/"
+        },
+        {
+          "date_added": "13343410516507459",
+          "date_last_used": "0",
+          "guid": "ab08969b-ed40-45da-84b3-dcc1f8666313",
+          "id": "295",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "MX Lookup Tool - Check your DNS MX Records online - MxToolbox",
+          "type": "url",
+          "url": "https://mxtoolbox.com/"
+        },
+        {
+          "date_added": "13343410500005949",
+          "date_last_used": "0",
+          "guid": "61410225-511c-4b83-9c04-c1d393803c77",
+          "id": "294",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Cisco Talos Intelligence Group - Comprehensive Threat Intelligence",
+          "type": "url",
+          "url": "https://talosintelligence.com/"
+        },
+        {
+          "date_added": "13343410491090740",
+          "date_last_used": "0",
+          "guid": "11e6fa4f-0746-4fa5-aba3-0cacd132fd2c",
+          "id": "293",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "AbuseIPDB - IP address abuse reports - Making the Internet safer, one IP at a time",
+          "type": "url",
+          "url": "https://www.abuseipdb.com/"
+        },
+        {
+          "date_added": "13343410473163918",
+          "date_last_used": "0",
+          "guid": "62edf50e-c98d-408a-bcbc-7d6e982f2335",
+          "id": "292",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Browserling – Online cross-browser testing",
+          "type": "url",
+          "url": "https://www.browserling.com/"
+        },
+        {
+          "date_added": "13342803716538717",
+          "date_last_used": "0",
+          "guid": "ba3c7ecb-aa42-4157-8997-efeefb712dbc",
+          "id": "283",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ATT&CK Training | MITRE ATT&CK®",
+          "type": "url",
+          "url": "https://attack.mitre.org/resources/training/"
+        },
+        {
+          "date_added": "13342375573445999",
+          "date_last_used": "0",
+          "guid": "ea8b4c5b-7fac-431a-ae15-d735dddc8241",
+          "id": "272",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Details - Red Flag Domains | Red Flag Domains",
+          "type": "url",
+          "url": "https://red.flag.domains/details/"
+        },
+        {
+          "date_added": "13342375099320640",
+          "date_last_used": "0",
+          "guid": "59887ec6-31bf-46bc-97f7-cf08096cae55",
+          "id": "269",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "VirusTotal - Home",
+          "type": "url",
+          "url": "https://www.virustotal.com/gui/home/upload"
+        },
+        {
+          "date_added": "13343472949027935",
+          "date_last_used": "0",
+          "guid": "21717152-5e4d-4e38-bd71-180ee7b36978",
+          "id": "299",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "World Imagery Wayback",
+          "type": "url",
+          "url": "https://livingatlas.arcgis.com/wayback/#active=12457&mapCenter=-115.301%2C36.065%2C17"
+        },
+        {
+          "date_added": "13343809222430670",
+          "date_last_used": "0",
+          "guid": "bab66194-e966-484c-b6ae-5534bd131cca",
+          "id": "304",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Interactive Online Malware Analysis Sandbox - ANY.RUN",
+          "type": "url",
+          "url": "https://app.any.run/"
+        },
+        {
+          "date_added": "13343809232646576",
+          "date_last_used": "0",
+          "guid": "2f19b7ae-4b8a-4fd7-9f68-d6f03f4e45ac",
+          "id": "305",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Free Automated Malware Analysis Service - powered by Falcon Sandbox",
+          "type": "url",
+          "url": "https://www.hybrid-analysis.com/"
+        },
+        {
+          "date_added": "13344016005137606",
+          "date_last_used": "0",
+          "guid": "a47392df-ffb5-438a-b305-2a09a07ecadf",
+          "id": "308",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Your Free URL Unshortener Tool | Check Short URL",
+          "type": "url",
+          "url": "https://checkshorturl.com/"
+        },
+        {
+          "date_added": "13345577152797860",
+          "date_last_used": "0",
+          "guid": "c42ad7a1-eacb-4821-ac5a-2e44b4002126",
+          "id": "310",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Tmux Cheat Sheet & Quick Reference",
+          "type": "url",
+          "url": "https://tmuxcheatsheet.com/"
+        },
+        {
+          "date_added": "13344013766432658",
+          "date_last_used": "0",
+          "guid": "804d8f5b-f157-469c-bf71-4c5de7453a42",
+          "id": "307",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Ransomware Group Sites",
+          "type": "url",
+          "url": "http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/"
+        }
+      ],
+      "date_added": "13343410563125732",
+      "date_last_used": "0",
+      "date_modified": "13354192714162686",
+      "guid": "ed6c3769-aae5-46f6-9f5d-9dab453f2687",
+      "id": "296",
+      "name": "tools",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13342803704856717",
+          "date_last_used": "0",
+          "guid": "6cc5c6c4-2c51-4c58-9315-5590be007f7a",
+          "id": "281",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "CERT-FR – Centre gouvernemental de veille, d'alerte et de réponse aux attaques informatiques",
+          "type": "url",
+          "url": "https://www.cert.ssi.gouv.fr/"
+        },
+        {
+          "date_added": "13346497083370023",
+          "date_last_used": "0",
+          "guid": "5d1eaa27-258a-4fd4-9532-7973dabac38e",
+          "id": "318",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "veillecyberland.wordpress.com",
+          "type": "url",
+          "url": "https://veillecyberland.wordpress.com/"
+        },
+        {
+          "date_added": "13354035009282071",
+          "date_last_used": "0",
+          "guid": "5d9da1cc-43c1-4574-a936-8b833c5d76f5",
+          "id": "358",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "All InfoSec / Cybersecurity News | allinfosecnews.com",
+          "type": "url",
+          "url": "https://allinfosecnews.com/news/"
+        },
+        {
+          "date_added": "13354035090766219",
+          "date_last_used": "0",
+          "guid": "6ef896f5-bcd4-4904-aa7c-9cc2fd56e68a",
+          "id": "359",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Dark Reading | Security | Protect The Business",
+          "type": "url",
+          "url": "https://www.darkreading.com/"
+        },
+        {
+          "date_added": "13354035116559966",
+          "date_last_used": "0",
+          "guid": "73eec51f-7ead-4583-9b0d-7dee4c349941",
+          "id": "360",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "The Hacker News | #1 Trusted Cybersecurity News Site",
+          "type": "url",
+          "url": "https://thehackernews.com/"
+        },
+        {
+          "date_added": "13342803709351505",
+          "date_last_used": "0",
+          "guid": "6241dbce-7373-4901-9942-6a9233300d08",
+          "id": "282",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Label \"France Cybersecurity\" - Global Security Mag Online",
+          "type": "url",
+          "url": "https://www.globalsecuritymag.fr/-Label-France-Cybersecurity-.html"
+        },
+        {
+          "date_added": "13354192762305617",
+          "date_last_used": "0",
+          "guid": "c4c2b9bf-249c-4283-8c01-2fbdb2ddb98a",
+          "id": "373",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Krebs on Security – In-depth security news and investigation",
+          "type": "url",
+          "url": "https://krebsonsecurity.com/"
+        },
+        {
+          "date_added": "13354192779712855",
+          "date_last_used": "0",
+          "guid": "e13f748f-6d7c-4e61-8332-71c449764e0a",
+          "id": "374",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Dark Reading | Security | Protect The Business",
+          "type": "url",
+          "url": "https://www.darkreading.com/latest-news"
+        },
+        {
+          "date_added": "13319365271656778",
+          "date_last_used": "0",
+          "guid": "b120781f-163e-4d30-a5b3-022836d3a604",
+          "id": "114",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "NoLimitSecu - Podcast dédié à la cyber sécurité",
+          "type": "url",
+          "url": "https://www.nolimitsecu.fr/"
+        }
+      ],
+      "date_added": "13354192690098388",
+      "date_last_used": "0",
+      "date_modified": "13354193630870152",
+      "guid": "c2d7ef00-0db6-4e5c-8174-930ae03efa95",
+      "id": "370",
+      "name": "News",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13340218744276529",
+          "date_last_used": "0",
+          "guid": "f37ad1cd-50ae-492e-9764-d3f9569aae2a",
+          "id": "256",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitHub - LetsDefend/incident-response-playbooks",
+          "type": "url",
+          "url": "https://github.com/LetsDefend/incident-response-playbooks"
+        },
+        {
+          "date_added": "13341420363055570",
+          "date_last_used": "0",
+          "guid": "2e1600fb-5472-4247-923b-c58b495f0106",
+          "id": "262",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Kevin Wallace Training, LLC - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/@kwallaceccie/playlists"
+        },
+        {
+          "date_added": "13339767049279110",
+          "date_last_used": "0",
+          "guid": "cf70a422-d2cc-4140-82d1-837a25d8aa0e",
+          "id": "248",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitHub - LetsDefend/awesome-soc-analyst: Useful resources for SOC Analyst and SOC Analyst candidates.",
+          "type": "url",
+          "url": "https://github.com/LetsDefend/awesome-soc-analyst"
+        },
+        {
+          "date_added": "13310901794709690",
+          "date_last_used": "0",
+          "guid": "93993fe0-8639-4d6f-9fd5-ebd4b991f3b4",
+          "id": "25",
+          "name": "GitHub - RPISEC/Malware: Course materials for Malware Analysis by RPISEC",
+          "type": "url",
+          "url": "https://github.com/RPISEC/Malware"
+        },
+        {
+          "date_added": "13342523474811678",
+          "date_last_used": "0",
+          "guid": "45466921-74a9-4efd-9623-078cc4d3890a",
+          "id": "274",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Home - Splunk Lantern",
+          "type": "url",
+          "url": "https://lantern.splunk.com/"
+        },
+        {
+          "date_added": "13342555382078306",
+          "date_last_used": "0",
+          "guid": "8b0eb928-1ec3-470c-8ee5-fa9720fefe21",
+          "id": "275",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Splunk How-To - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/@SplunkHowTo/playlists"
+        },
+        {
+          "date_added": "13342555397663948",
+          "date_last_used": "0",
+          "guid": "73332cb1-9da9-49b4-b586-b3b2346e93d5",
+          "id": "277",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "STEP | Splunk Training and Enablement Platform: Search Results",
+          "type": "url",
+          "url": "https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/app/shared;spf-url=common%2Fsearchresults%2Fxxemptyxx%2FLEARNINGEVENT%252COFFERINGTEMPLATE%252CCERTIFICATION%252CCURRICULUM%252CPLAYLIST%252COFFERING%252CPACKAGE%252CLXPCONTENT%252CLEARNINGPATHWAY%3Fadvsearch%3Dtrue&categoryId%3Dcateg000000000003041"
+        },
+        {
+          "date_added": "13342777199054683",
+          "date_last_used": "0",
+          "guid": "1fed63a6-87a9-4fa0-a03f-52d7d52d2eb3",
+          "id": "279",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Contenu | SecNumacadémie",
+          "type": "url",
+          "url": "https://secnumacademie.gouv.fr/content"
+        },
+        {
+          "date_added": "13342785940094646",
+          "date_last_used": "0",
+          "guid": "9e7cc914-4f39-42f7-92f6-b315dbebc73e",
+          "id": "280",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "L'atelier RGPD",
+          "type": "url",
+          "url": "https://atelier-rgpd.cnil.fr/"
+        },
+        {
+          "date_added": "13342803720651280",
+          "date_last_used": "0",
+          "guid": "cd22eeb0-4678-4457-9d94-29c52e6c7cd8",
+          "id": "284",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Qualys Certification and Training Center | Qualys",
+          "type": "url",
+          "url": "https://www.qualys.com/training/"
+        },
+        {
+          "date_added": "13343755875212376",
+          "date_last_used": "0",
+          "guid": "8e644485-6936-47ac-9a16-ddcc475213b9",
+          "id": "302",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "OZINT - La plateforme communautaire dédiée à l'OSINT",
+          "type": "url",
+          "url": "https://ozint.eu/"
+        },
+        {
+          "date_added": "13343390106664091",
+          "date_last_used": "0",
+          "guid": "4c7de3dd-7e08-49c1-a51b-2bd380710f7f",
+          "id": "290",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Windows Server Administration Fundamentals | Microsoft Learn",
+          "type": "url",
+          "url": "https://learn.microsoft.com/fr-fr/shows/windows-server-administration-fundamentals/"
+        }
+      ],
+      "date_added": "13354192718795065",
+      "date_last_used": "0",
+      "date_modified": "13354192754890278",
+      "guid": "6786d4b3-cb3c-44a7-8565-56478651a461",
+      "id": "371",
+      "name": "Learning",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13312920051109983",
+          "date_last_used": "0",
+          "guid": "e5d4a3fa-1400-42a6-9c34-d1a47482a5b2",
+          "id": "31",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "What are XOR encryption and decryption?",
+          "type": "url",
+          "url": "https://www.educative.io/answers/what-are-xor-encryption-and-decryption"
+        }
+      ],
+      "date_added": "13354192749772131",
+      "date_last_used": "0",
+      "date_modified": "13354192753094375",
+      "guid": "322f6390-44b1-4735-8497-4edc56c2ff47",
+      "id": "372",
+      "name": "Tips and tricks",
+      "type": "folder"
+    }
+  ],
+  "date_added": "13341425819289978",
+  "date_last_used": "0",
+  "date_modified": "13354192749772260",
+  "guid": "3eaff603-3302-42bd-ad10-6b47745ae4bd",
+  "id": "264",
+  "name": "blue_team",
+  "type": "folder"
+}
