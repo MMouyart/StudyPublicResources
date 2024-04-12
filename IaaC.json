@@ -37,11 +37,47 @@
           "name": "GitHub - rahulwagh/ansible-examples",
           "type": "url",
           "url": "https://github.com/rahulwagh/ansible-examples"
+        },
+        {
+          "date_added": "13357226519532306",
+          "date_last_used": "0",
+          "guid": "6538b75f-f9fe-4d64-b9ea-c4ecafd9a825",
+          "id": "470",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Terraform Table of Content for Ansible | Jhooq",
+          "type": "url",
+          "url": "https://jhooq.com/ansible-video-index/"
+        },
+        {
+          "date_added": "13357226563879943",
+          "date_last_used": "0",
+          "guid": "782184cc-0291-46fc-b794-4b35f223b2df",
+          "id": "471",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Ansible | Jhooq",
+          "type": "url",
+          "url": "https://jhooq.com/categories/ansible/"
+        },
+        {
+          "date_added": "13357229405914020",
+          "date_last_used": "0",
+          "guid": "6680785d-ca1d-481c-8e8f-1bcd333f914a",
+          "id": "472",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitHub - ansible/ansible-examples: A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",
+          "type": "url",
+          "url": "https://github.com/ansible/ansible-examples"
         }
       ],
       "date_added": "13357139466630585",
       "date_last_used": "0",
-      "date_modified": "13357143207386187",
+      "date_modified": "13357229405914020",
       "guid": "cb6259e5-9d71-493f-9779-a3f75c398eec",
       "id": "463",
       "name": "Ansible",
@@ -60,11 +96,35 @@
           "name": "HashiCorp Terraform Associate Certification Course (003) - Full Course | Pass Exam - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=OHzZ7KuioMA"
+        },
+        {
+          "date_added": "13357237606284513",
+          "date_last_used": "0",
+          "guid": "d971f194-ec57-488a-a3fd-9cb3354a1fc0",
+          "id": "475",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Terraform | Jhooq",
+          "type": "url",
+          "url": "https://jhooq.com/categories/terraform/"
+        },
+        {
+          "date_added": "13357323005487465",
+          "date_last_used": "0",
+          "guid": "bd991c72-1443-46e2-accd-8559d33bfaf0",
+          "id": "480",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitHub - rahulwagh/Terraform-Topics",
+          "type": "url",
+          "url": "https://github.com/rahulwagh/Terraform-Topics"
         }
       ],
       "date_added": "13357139472920831",
       "date_last_used": "0",
-      "date_modified": "13357143204926234",
+      "date_modified": "13357323008345726",
       "guid": "b5bdbff2-28f7-4efe-bb0a-33ec62c4565a",
       "id": "464",
       "name": "Terraform",

@@ -329,11 +329,47 @@
       "id": "367",
       "name": "News",
       "type": "folder"
+    },
+    {
+      "date_added": "13357237835680905",
+      "date_last_used": "0",
+      "guid": "8dc21213-2050-4084-8543-c66b6bc3171f",
+      "id": "476",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "Linux Hardware Database",
+      "type": "url",
+      "url": "https://linux-hardware.org/"
+    },
+    {
+      "date_added": "13357242193608881",
+      "date_last_used": "0",
+      "guid": "473847c8-eaf1-4f84-8acc-472d6696a6ae",
+      "id": "477",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "ArchWiki",
+      "type": "url",
+      "url": "https://wiki.archlinux.org/?ref=itsfoss.com"
+    },
+    {
+      "date_added": "13357242197016596",
+      "date_last_used": "0",
+      "guid": "4fa15d56-011a-4daa-970b-a57e85f410e6",
+      "id": "478",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "General recommendations - ArchWiki",
+      "type": "url",
+      "url": "https://wiki.archlinux.org/title/General_recommendations"
     }
   ],
   "date_added": "13313424507706423",
   "date_last_used": "0",
-  "date_modified": "13354192657124072",
+  "date_modified": "13357323005487465",
   "guid": "cb5c0e7e-a74c-4235-ae8b-a9360f3b66fc",
   "id": "34",
   "name": "linux",
