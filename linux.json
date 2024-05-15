@@ -130,11 +130,35 @@
           "name": "How to change the Time Limit for a Sudo Session - VITUX",
           "type": "url",
           "url": "https://vitux.com/how-to-change-the-time-limit-for-a-sudo-session/"
+        },
+        {
+          "date_added": "13345577152797860",
+          "date_last_used": "0",
+          "guid": "c42ad7a1-eacb-4821-ac5a-2e44b4002126",
+          "id": "310",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Tmux Cheat Sheet & Quick Reference",
+          "type": "url",
+          "url": "https://tmuxcheatsheet.com/"
+        },
+        {
+          "date_added": "13358527049904739",
+          "date_last_used": "0",
+          "guid": "c1d4cba9-959d-4b7b-bf2e-cbbd571bea67",
+          "id": "516",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "How to backup and restore downloaded gnome-shell extensions? - Ask Ubuntu",
+          "type": "url",
+          "url": "https://askubuntu.com/questions/166721/how-to-backup-and-restore-downloaded-gnome-shell-extensions"
         }
       ],
       "date_added": "13354192600800634",
       "date_last_used": "0",
-      "date_modified": "13354192628818318",
+      "date_modified": "13358610076405790",
       "guid": "d83fe276-9030-47a1-886d-77d2a6047e4b",
       "id": "365",
       "name": "tips and tricks",
@@ -353,18 +377,6 @@
       "name": "ArchWiki",
       "type": "url",
       "url": "https://wiki.archlinux.org/?ref=itsfoss.com"
-    },
-    {
-      "date_added": "13357242197016596",
-      "date_last_used": "0",
-      "guid": "4fa15d56-011a-4daa-970b-a57e85f410e6",
-      "id": "478",
-      "meta_info": {
-        "power_bookmark_meta": ""
-      },
-      "name": "General recommendations - ArchWiki",
-      "type": "url",
-      "url": "https://wiki.archlinux.org/title/General_recommendations"
     }
   ],
   "date_added": "13313424507706423",

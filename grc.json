@@ -1,0 +1,272 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "date_added": "13360058740213362",
+          "date_last_used": "0",
+          "guid": "ddb75820-516c-47c0-a903-42b233f92079",
+          "id": "524",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ISO 27001 Lead Implementer - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PLLQuzvOm2HSmryYmjmBBr6MPevUbv-Gf6"
+        },
+        {
+          "date_added": "13360058815783378",
+          "date_last_used": "0",
+          "guid": "be3a0aef-5d2a-4eb1-accc-7188641ab878",
+          "id": "525",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Free ISO27k Toolkit",
+          "type": "url",
+          "url": "https://www.iso27001security.com/html/toolkit.html"
+        },
+        {
+          "date_added": "13360058842468456",
+          "date_last_used": "0",
+          "guid": "093acadf-f95f-4ba6-9a91-85db390e4e90",
+          "id": "526",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ISO 27001 free resources",
+          "type": "url",
+          "url": "https://www.itgovernance.co.uk/resources/iso-27001"
+        },
+        {
+          "date_added": "13360059481530976",
+          "date_last_used": "0",
+          "guid": "e8c3c905-c178-4ef5-ad62-b982db9353f1",
+          "id": "527",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ISO/IEC 27000:2018(fr), Technologies de l'information — Techniques de sécurité — Systèmes de management de la sécurité de l'information — Vue d'ensemble et vocabulaire",
+          "type": "url",
+          "url": "https://www.iso.org/obp/ui/fr/#iso:std:iso-iec:27000:ed-5:v1:fr"
+        },
+        {
+          "date_added": "13360059528154070",
+          "date_last_used": "0",
+          "guid": "a4e8243a-9fcf-4b4c-9ac0-a68cb43af712",
+          "id": "528",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Publicly Available Standards",
+          "type": "url",
+          "url": "https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html"
+        },
+        {
+          "date_added": "13360073960802234",
+          "date_last_used": "0",
+          "guid": "83bad022-66b7-4454-b47c-eb88990d0c57",
+          "id": "530",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Outils/ISO 27001 at master · ESD-academy/Outils · GitHub",
+          "type": "url",
+          "url": "https://github.com/ESD-academy/Outils/tree/master/ISO%2027001"
+        },
+        {
+          "date_added": "13360074109660737",
+          "date_last_used": "13360082234873697",
+          "guid": "cf4f1aae-ccee-45ae-82ad-1ce3721b0341",
+          "id": "531",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "[WEBINAIRE] ESD academy - SMSI et ISO 27001 - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=G6XkzHnJz04&list=PLXY4mBlzA52NzSCmpWJudels1JI9dolzh&index=12"
+        },
+        {
+          "date_added": "13360074208534242",
+          "date_last_used": "0",
+          "guid": "d145c492-facf-4c26-9ffe-ade0103fd0ab",
+          "id": "532",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "[WEBINAIRE] ESD academy - ISO/IEC 27005:2022 - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=pJ9pgwTfgZE&list=PLXY4mBlzA52NzSCmpWJudels1JI9dolzh&index=24"
+        },
+        {
+          "date_added": "13360081481903064",
+          "date_last_used": "0",
+          "guid": "087b8d8a-7f48-48fa-b969-5a518200f3b6",
+          "id": "533",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Atelier ISO 27005 et EBIOS RM - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=846qjyImGXk"
+        },
+        {
+          "date_added": "13360083295601532",
+          "date_last_used": "0",
+          "guid": "0bda6b65-1474-4444-a142-89dd5a45213f",
+          "id": "534",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Atelier Mise en place de l'ISO 27001 IA et Cybersécurité - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=5PNjzvTBDdU"
+        },
+        {
+          "date_added": "13360094861997657",
+          "date_last_used": "0",
+          "guid": "e5b96e5b-afc1-48e7-8b86-7bbe394e07c9",
+          "id": "535",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "La méthode EBIOS Risk Manager | ANSSI",
+          "type": "url",
+          "url": "https://cyber.gouv.fr/la-methode-ebios-risk-manager"
+        }
+      ],
+      "date_added": "13360058736722854",
+      "date_last_used": "0",
+      "date_modified": "13360094861997657",
+      "guid": "2d744349-d989-425e-af23-1d9660951aa2",
+      "id": "523",
+      "name": "iso 27k",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13360148917094934",
+          "date_last_used": "0",
+          "guid": "717a35f6-3ebc-476a-a5a3-a817b01be6d8",
+          "id": "539",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Le futur de la cybersécurité avec la directive NIS2 - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=rdV9vwaJcAQ"
+        },
+        {
+          "date_added": "13360149325531430",
+          "date_last_used": "0",
+          "guid": "2278ecc2-af07-4758-9996-4a0ce5603f8f",
+          "id": "540",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "#546 Directive NIS2 synthèse avec Mise à Jour au 9 avril 2024 [MD6 Cyberday] - Technique et droit du numérique",
+          "type": "url",
+          "url": "https://technique-et-droit-du-numerique.fr/directive-nis2-synthese-avec-mise-a-jour-au-9-avril-2024-md6-cyberday-ledieu-avocats/"
+        },
+        {
+          "date_added": "13360149389532951",
+          "date_last_used": "0",
+          "guid": "eb060557-708a-4281-8dc1-c8a07a7091e9",
+          "id": "541",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "#535 démystifier la Directive NISv2 - LIVE Hamza KONDAH - 8 février 2024 - Technique et droit du numérique",
+          "type": "url",
+          "url": "https://technique-et-droit-du-numerique.fr/demystifier-la-directive-nisv2-live-hamza-kondah-8-fevrier-2024/"
+        },
+        {
+          "date_added": "13360149425542610",
+          "date_last_used": "0",
+          "guid": "d249cf85-3de7-4ef0-ae5d-06a147e8de89",
+          "id": "542",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "#529 REPLAY du webinar NISv2 SPECIAL MSSP \"prestataire de service de sécurité gérée\" CERT GRAND EST - Technique et droit du numérique",
+          "type": "url",
+          "url": "https://technique-et-droit-du-numerique.fr/replay-du-webinar-nisv2-special-mssp-prestataire-de-service-de-securite-geree-cert-grand-est/"
+        },
+        {
+          "date_added": "13360150104173899",
+          "date_last_used": "0",
+          "guid": "4fa3d4da-101d-4ba3-bea6-4d15335f6ac3",
+          "id": "543",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Consultation Transposition NIS 2 : Présentation de la directive et de sa transposition nationale – Partie 1 - video Dailymotion",
+          "type": "url",
+          "url": "https://www.dailymotion.com/video/x8l50hd"
+        },
+        {
+          "date_added": "13360164842422224",
+          "date_last_used": "0",
+          "guid": "9dd008c7-1e3a-4c48-8ac1-de1ff2e42dd3",
+          "id": "544",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Démystifier la directive NISv2 - LIVE Hamza KONDAH #535 - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=-niXd0bn8tA&list=PLd4OlIfTNW_wtPcg_UC4dMCtwQGObDcN7&index=9"
+        }
+      ],
+      "date_added": "13360148622280963",
+      "date_last_used": "0",
+      "date_modified": "13360164842422224",
+      "guid": "fda4b6c8-83e5-4e0b-85f1-bf334d9ce958",
+      "id": "537",
+      "name": "nis",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13360168561724194",
+          "date_last_used": "0",
+          "guid": "ee6667fd-1a54-4b1f-8f40-c107e4f19097",
+          "id": "546",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "How to \"Think like a Manager\" for the CISSP Exam - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=vfC9OLsCqgk"
+        },
+        {
+          "date_added": "13360168566468356",
+          "date_last_used": "0",
+          "guid": "dbc1255d-6ee5-4156-b6ef-02d4708cb752",
+          "id": "547",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "CISSP Exam Cram Full Course (All 8 Domains) - Covers latest exam! - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=_nyZhYnCNLA"
+        }
+      ],
+      "date_added": "13360168559004601",
+      "date_last_used": "0",
+      "date_modified": "13360168566468356",
+      "guid": "3e9c0916-457a-42d7-8f2d-8b62ec437ce0",
+      "id": "545",
+      "name": "cissp",
+      "type": "folder"
+    }
+  ],
+  "date_added": "13360058726724823",
+  "date_last_used": "0",
+  "date_modified": "13360168561724194",
+  "guid": "b503334c-e350-474e-a3b0-3c431c486c72",
+  "id": "522",
+  "name": "grc",
+  "type": "folder"
+}

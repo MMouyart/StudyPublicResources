@@ -1,0 +1,303 @@
+{
+  "children": [
+    {
+      "children": [],
+      "date_added": "13357386465227049",
+      "date_last_used": "0",
+      "date_modified": "13357386465227049",
+      "guid": "cfa01112-9e6b-4bf2-b4f4-55362221509f",
+      "id": "483",
+      "name": "git",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13357386497272318",
+          "date_last_used": "0",
+          "guid": "5238f087-2a6f-476a-a16d-bda69e678177",
+          "id": "486",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Learn Jenkins! Complete Jenkins Course - Zero to Hero - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=6YZvp2GwT0A"
+        },
+        {
+          "date_added": "13357386502795933",
+          "date_last_used": "0",
+          "guid": "8356b0f4-8ab5-4571-af1d-8d22c194221e",
+          "id": "487",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "OWASP Dependency-Check | Jenkins plugin",
+          "type": "url",
+          "url": "https://plugins.jenkins.io/dependency-check-jenkins-plugin/"
+        },
+        {
+          "date_added": "13357386511956087",
+          "date_last_used": "0",
+          "guid": "4433a854-80ad-4023-9e47-02b4eb710345",
+          "id": "488",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitHub - devopsjourney1/jenkins-101",
+          "type": "url",
+          "url": "https://github.com/devopsjourney1/jenkins-101"
+        },
+        {
+          "date_added": "13357398018091920",
+          "date_last_used": "0",
+          "guid": "5c1b3d9e-3c8f-485b-be9e-439ee249a42b",
+          "id": "489",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "JENKINS END TO END CICD Implementation with Detailed Notes | BEST CICD PROJECT - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=JGQI5pkK82w"
+        }
+      ],
+      "date_added": "13357386475607504",
+      "date_last_used": "0",
+      "date_modified": "13357402047796893",
+      "guid": "9c430920-624f-4fc6-8741-a9b76107bfe9",
+      "id": "484",
+      "name": "jenkins",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13357402157013600",
+          "date_last_used": "0",
+          "guid": "d9ec0e36-dfa3-4917-bc6d-7bf8d4a94599",
+          "id": "492",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitLab CI CD Tutorial for Beginners [Crash Course] - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=qP8kir2GUgo"
+        }
+      ],
+      "date_added": "13357386481878084",
+      "date_last_used": "0",
+      "date_modified": "13357402159858780",
+      "guid": "8a8a2cf2-3785-41f4-a399-840b46a890a5",
+      "id": "485",
+      "name": "gitlab ci",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "date_added": "13357139476891987",
+              "date_last_used": "0",
+              "guid": "61e2673a-6480-4762-8714-618f0a6133d9",
+              "id": "465",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Ansible Full Course | Zero to Hero - YouTube",
+              "type": "url",
+              "url": "https://www.youtube.com/watch?v=GROqwFFLl3s"
+            },
+            {
+              "date_added": "13357139622146601",
+              "date_last_used": "0",
+              "guid": "a484cefc-1030-4772-afec-36b2c306f7a8",
+              "id": "466",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Ansible Documentation — Ansible Community Documentation",
+              "type": "url",
+              "url": "https://docs.ansible.com/ansible/latest/index.html"
+            },
+            {
+              "date_added": "13357143204926234",
+              "date_last_used": "0",
+              "guid": "116bb5e2-018c-45e9-868f-3599a3ee57f6",
+              "id": "468",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - rahulwagh/ansible-examples",
+              "type": "url",
+              "url": "https://github.com/rahulwagh/ansible-examples"
+            },
+            {
+              "date_added": "13357226519532306",
+              "date_last_used": "0",
+              "guid": "6538b75f-f9fe-4d64-b9ea-c4ecafd9a825",
+              "id": "470",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Terraform Table of Content for Ansible | Jhooq",
+              "type": "url",
+              "url": "https://jhooq.com/ansible-video-index/"
+            },
+            {
+              "date_added": "13357226563879943",
+              "date_last_used": "0",
+              "guid": "782184cc-0291-46fc-b794-4b35f223b2df",
+              "id": "471",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Ansible | Jhooq",
+              "type": "url",
+              "url": "https://jhooq.com/categories/ansible/"
+            },
+            {
+              "date_added": "13357229405914020",
+              "date_last_used": "0",
+              "guid": "6680785d-ca1d-481c-8e8f-1bcd333f914a",
+              "id": "472",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - ansible/ansible-examples: A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",
+              "type": "url",
+              "url": "https://github.com/ansible/ansible-examples"
+            }
+          ],
+          "date_added": "13357139466630585",
+          "date_last_used": "0",
+          "date_modified": "13357229405914020",
+          "guid": "cb6259e5-9d71-493f-9779-a3f75c398eec",
+          "id": "463",
+          "name": "Ansible",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13357141409865403",
+              "date_last_used": "0",
+              "guid": "2a34ca7b-75ad-41ca-a880-b8655c119648",
+              "id": "467",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "HashiCorp Terraform Associate Certification Course (003) - Full Course | Pass Exam - YouTube",
+              "type": "url",
+              "url": "https://www.youtube.com/watch?v=OHzZ7KuioMA"
+            },
+            {
+              "date_added": "13357237606284513",
+              "date_last_used": "0",
+              "guid": "d971f194-ec57-488a-a3fd-9cb3354a1fc0",
+              "id": "475",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Terraform | Jhooq",
+              "type": "url",
+              "url": "https://jhooq.com/categories/terraform/"
+            },
+            {
+              "date_added": "13357323005487465",
+              "date_last_used": "0",
+              "guid": "bd991c72-1443-46e2-accd-8559d33bfaf0",
+              "id": "480",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - rahulwagh/Terraform-Topics",
+              "type": "url",
+              "url": "https://github.com/rahulwagh/Terraform-Topics"
+            }
+          ],
+          "date_added": "13357139472920831",
+          "date_last_used": "0",
+          "date_modified": "13357323008345726",
+          "guid": "b5bdbff2-28f7-4efe-bb0a-33ec62c4565a",
+          "id": "464",
+          "name": "Terraform",
+          "type": "folder"
+        }
+      ],
+      "date_added": "13357139461020109",
+      "date_last_used": "0",
+      "date_modified": "13357139476891987",
+      "guid": "1da04b26-9d56-4421-9f4e-195987c5ca85",
+      "id": "462",
+      "name": "IaaC",
+      "type": "folder"
+    },
+    {
+      "date_added": "13357402072816783",
+      "date_last_used": "0",
+      "guid": "45ea0a65-06fc-4664-a048-b12fa1c6a87d",
+      "id": "491",
+      "meta_info": {
+        "power_bookmark_meta": ""
+      },
+      "name": "DEVOPS ZERO TO HERO COURSE - YouTube",
+      "type": "url",
+      "url": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13357408816172274",
+          "date_last_used": "0",
+          "guid": "c4a2cb14-49cb-461d-826c-22f1c2f22fba",
+          "id": "494",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=MeU5_k9ssrs"
+        },
+        {
+          "date_added": "13357408828990382",
+          "date_last_used": "0",
+          "guid": "7db27450-22ee-4aa4-a964-2af67af7940d",
+          "id": "495",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Nana Janashia / argocd-app-config · GitLab",
+          "type": "url",
+          "url": "https://gitlab.com/nanuchi/argocd-app-config"
+        },
+        {
+          "date_added": "13357408843225925",
+          "date_last_used": "0",
+          "guid": "aeb7d9e1-23f2-4fe2-bde5-cf6b98b1cea8",
+          "id": "496",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Declarative Setup - Argo CD - Declarative GitOps CD for Kubernetes",
+          "type": "url",
+          "url": "https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/"
+        }
+      ],
+      "date_added": "13357408813181722",
+      "date_last_used": "0",
+      "date_modified": "13357741610044039",
+      "guid": "fe82e538-dec3-465f-a12d-140a41a9b075",
+      "id": "493",
+      "name": "argoCD",
+      "type": "folder"
+    }
+  ],
+  "date_added": "13357386441422569",
+  "date_last_used": "0",
+  "date_modified": "13357408816172274",
+  "guid": "2cc7dd81-d9fb-4723-b9f8-9ecd22dada65",
+  "id": "482",
+  "name": "CI-CD",
+  "type": "folder"
+}

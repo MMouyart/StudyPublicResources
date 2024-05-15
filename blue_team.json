@@ -3,177 +3,306 @@
     {
       "children": [
         {
-          "date_added": "13342375131445849",
+          "children": [
+            {
+              "date_added": "13343410516507459",
+              "date_last_used": "0",
+              "guid": "ab08969b-ed40-45da-84b3-dcc1f8666313",
+              "id": "295",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "MX Lookup Tool - Check your DNS MX Records online - MxToolbox",
+              "type": "url",
+              "url": "https://mxtoolbox.com/"
+            },
+            {
+              "date_added": "13343410491090740",
+              "date_last_used": "0",
+              "guid": "11e6fa4f-0746-4fa5-aba3-0cacd132fd2c",
+              "id": "293",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "AbuseIPDB - IP address abuse reports - Making the Internet safer, one IP at a time",
+              "type": "url",
+              "url": "https://www.abuseipdb.com/"
+            },
+            {
+              "date_added": "13343410473163918",
+              "date_last_used": "0",
+              "guid": "62edf50e-c98d-408a-bcbc-7d6e982f2335",
+              "id": "292",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Browserling – Online cross-browser testing",
+              "type": "url",
+              "url": "https://www.browserling.com/"
+            },
+            {
+              "date_added": "13342375573445999",
+              "date_last_used": "0",
+              "guid": "ea8b4c5b-7fac-431a-ae15-d735dddc8241",
+              "id": "272",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Details - Red Flag Domains | Red Flag Domains",
+              "type": "url",
+              "url": "https://red.flag.domains/details/"
+            },
+            {
+              "date_added": "13342375099320640",
+              "date_last_used": "0",
+              "guid": "59887ec6-31bf-46bc-97f7-cf08096cae55",
+              "id": "269",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "VirusTotal - Home",
+              "type": "url",
+              "url": "https://www.virustotal.com/gui/home/upload"
+            },
+            {
+              "date_added": "13343809222430670",
+              "date_last_used": "0",
+              "guid": "bab66194-e966-484c-b6ae-5534bd131cca",
+              "id": "304",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Interactive Online Malware Analysis Sandbox - ANY.RUN",
+              "type": "url",
+              "url": "https://app.any.run/"
+            },
+            {
+              "date_added": "13343809232646576",
+              "date_last_used": "0",
+              "guid": "2f19b7ae-4b8a-4fd7-9f68-d6f03f4e45ac",
+              "id": "305",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Free Automated Malware Analysis Service - powered by Falcon Sandbox",
+              "type": "url",
+              "url": "https://www.hybrid-analysis.com/"
+            },
+            {
+              "date_added": "13344016005137606",
+              "date_last_used": "0",
+              "guid": "a47392df-ffb5-438a-b305-2a09a07ecadf",
+              "id": "308",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Your Free URL Unshortener Tool | Check Short URL",
+              "type": "url",
+              "url": "https://checkshorturl.com/"
+            },
+            {
+              "date_added": "13358526949470887",
+              "date_last_used": "0",
+              "guid": "360a148b-8a8b-41f3-a5d2-cfcf428fadeb",
+              "id": "515",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Mozilla Monitor",
+              "type": "url",
+              "url": "https://monitor.mozilla.org/"
+            },
+            {
+              "date_added": "13342375131445849",
+              "date_last_used": "0",
+              "guid": "7ca0170c-67d0-495d-830b-7fba6126df01",
+              "id": "271",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "BrowserAudit",
+              "type": "url",
+              "url": "https://browseraudit.com/"
+            },
+            {
+              "date_added": "13358610076405790",
+              "date_last_used": "0",
+              "guid": "e489a00e-2350-4fdf-90f5-061fc6c3ff55",
+              "id": "518",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Windows System Processes — An Overview For Blue Teams | by Nasreddine Bencherchali | Medium",
+              "type": "url",
+              "url": "https://nasbench.medium.com/windows-system-processes-an-overview-for-blue-teams-42fa7a617920"
+            },
+            {
+              "date_added": "13358611627072656",
+              "date_last_used": "0",
+              "guid": "02febc6f-9559-4938-8f46-8df585e891dc",
+              "id": "520",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.",
+              "type": "url",
+              "url": "https://crackstation.net/"
+            }
+          ],
+          "date_added": "13358526749669628",
           "date_last_used": "0",
-          "guid": "7ca0170c-67d0-495d-830b-7fba6126df01",
-          "id": "271",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "BrowserAudit",
-          "type": "url",
-          "url": "https://browseraudit.com/"
+          "date_modified": "13358611630596315",
+          "guid": "c8c68e46-cec2-45ab-b5cb-36e4cebda63d",
+          "id": "511",
+          "name": "ioc finder",
+          "type": "folder"
         },
         {
-          "date_added": "13343410516507459",
+          "children": [
+            {
+              "date_added": "13358435070739402",
+              "date_last_used": "0",
+              "guid": "886acc06-3efb-48bf-9fcc-46146d6ee6f5",
+              "id": "505",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Greenbone Community Documentation",
+              "type": "url",
+              "url": "https://greenbone.github.io/docs/latest/index.html"
+            },
+            {
+              "date_added": "13358435091961346",
+              "date_last_used": "0",
+              "guid": "b25fc5be-8fab-4fe4-a196-89fded2102d1",
+              "id": "506",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Nuclei Overview - ProjectDiscovery Documentation",
+              "type": "url",
+              "url": "https://docs.projectdiscovery.io/tools/nuclei/overview"
+            },
+            {
+              "date_added": "13358452224496453",
+              "date_last_used": "0",
+              "guid": "dd0751f3-3d3d-4880-9601-592b0790fc2e",
+              "id": "508",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "TheHive Project",
+              "type": "url",
+              "url": "https://thehive-project.org/"
+            },
+            {
+              "date_added": "13358526682985299",
+              "date_last_used": "0",
+              "guid": "6ec1405f-e67d-49fa-b143-91799e063a90",
+              "id": "510",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - duggytuxy/malicious_ip_addresses: These are the IP addresses of the most active C2/Botnets/Zombies/Scanners in European Cyber Space",
+              "type": "url",
+              "url": "https://github.com/duggytuxy/malicious_ip_addresses"
+            },
+            {
+              "date_added": "13358434831153492",
+              "date_last_used": "0",
+              "guid": "2c89f787-7e07-417c-847a-5865e8363255",
+              "id": "504",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "OWASP Amass | OWASP Foundation",
+              "type": "url",
+              "url": "https://owasp.org/www-project-amass/"
+            },
+            {
+              "date_added": "13343472949027935",
+              "date_last_used": "0",
+              "guid": "21717152-5e4d-4e38-bd71-180ee7b36978",
+              "id": "299",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "World Imagery Wayback",
+              "type": "url",
+              "url": "https://livingatlas.arcgis.com/wayback/#active=12457&mapCenter=-115.301%2C36.065%2C17"
+            }
+          ],
+          "date_added": "13358526799322769",
           "date_last_used": "0",
-          "guid": "ab08969b-ed40-45da-84b3-dcc1f8666313",
-          "id": "295",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "MX Lookup Tool - Check your DNS MX Records online - MxToolbox",
-          "type": "url",
-          "url": "https://mxtoolbox.com/"
+          "date_modified": "13358527025040886",
+          "guid": "d24449e1-c28e-4067-94f6-edfc10ecc1a7",
+          "id": "512",
+          "name": "software",
+          "type": "folder"
         },
         {
-          "date_added": "13343410500005949",
+          "children": [
+            {
+              "date_added": "13343410500005949",
+              "date_last_used": "0",
+              "guid": "61410225-511c-4b83-9c04-c1d393803c77",
+              "id": "294",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cisco Talos Intelligence Group - Comprehensive Threat Intelligence",
+              "type": "url",
+              "url": "https://talosintelligence.com/"
+            },
+            {
+              "date_added": "13342803716538717",
+              "date_last_used": "0",
+              "guid": "ba3c7ecb-aa42-4157-8997-efeefb712dbc",
+              "id": "283",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "ATT&CK Training | MITRE ATT&CK®",
+              "type": "url",
+              "url": "https://attack.mitre.org/resources/training/"
+            },
+            {
+              "date_added": "13344013766432658",
+              "date_last_used": "0",
+              "guid": "804d8f5b-f157-469c-bf71-4c5de7453a42",
+              "id": "307",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Ransomware Group Sites",
+              "type": "url",
+              "url": "http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/"
+            },
+            {
+              "date_added": "13358526921441553",
+              "date_last_used": "0",
+              "guid": "937691c5-5973-42e2-9911-811ec5b1b942",
+              "id": "514",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "OWASP TorBot | OWASP Foundation",
+              "type": "url",
+              "url": "https://owasp.org/www-project-torbot/"
+            }
+          ],
+          "date_added": "13358526824124684",
           "date_last_used": "0",
-          "guid": "61410225-511c-4b83-9c04-c1d393803c77",
-          "id": "294",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Cisco Talos Intelligence Group - Comprehensive Threat Intelligence",
-          "type": "url",
-          "url": "https://talosintelligence.com/"
-        },
-        {
-          "date_added": "13343410491090740",
-          "date_last_used": "0",
-          "guid": "11e6fa4f-0746-4fa5-aba3-0cacd132fd2c",
-          "id": "293",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "AbuseIPDB - IP address abuse reports - Making the Internet safer, one IP at a time",
-          "type": "url",
-          "url": "https://www.abuseipdb.com/"
-        },
-        {
-          "date_added": "13343410473163918",
-          "date_last_used": "0",
-          "guid": "62edf50e-c98d-408a-bcbc-7d6e982f2335",
-          "id": "292",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Browserling – Online cross-browser testing",
-          "type": "url",
-          "url": "https://www.browserling.com/"
-        },
-        {
-          "date_added": "13342803716538717",
-          "date_last_used": "0",
-          "guid": "ba3c7ecb-aa42-4157-8997-efeefb712dbc",
-          "id": "283",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "ATT&CK Training | MITRE ATT&CK®",
-          "type": "url",
-          "url": "https://attack.mitre.org/resources/training/"
-        },
-        {
-          "date_added": "13342375573445999",
-          "date_last_used": "0",
-          "guid": "ea8b4c5b-7fac-431a-ae15-d735dddc8241",
-          "id": "272",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Details - Red Flag Domains | Red Flag Domains",
-          "type": "url",
-          "url": "https://red.flag.domains/details/"
-        },
-        {
-          "date_added": "13342375099320640",
-          "date_last_used": "0",
-          "guid": "59887ec6-31bf-46bc-97f7-cf08096cae55",
-          "id": "269",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "VirusTotal - Home",
-          "type": "url",
-          "url": "https://www.virustotal.com/gui/home/upload"
-        },
-        {
-          "date_added": "13343472949027935",
-          "date_last_used": "0",
-          "guid": "21717152-5e4d-4e38-bd71-180ee7b36978",
-          "id": "299",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "World Imagery Wayback",
-          "type": "url",
-          "url": "https://livingatlas.arcgis.com/wayback/#active=12457&mapCenter=-115.301%2C36.065%2C17"
-        },
-        {
-          "date_added": "13343809222430670",
-          "date_last_used": "0",
-          "guid": "bab66194-e966-484c-b6ae-5534bd131cca",
-          "id": "304",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Interactive Online Malware Analysis Sandbox - ANY.RUN",
-          "type": "url",
-          "url": "https://app.any.run/"
-        },
-        {
-          "date_added": "13343809232646576",
-          "date_last_used": "0",
-          "guid": "2f19b7ae-4b8a-4fd7-9f68-d6f03f4e45ac",
-          "id": "305",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Free Automated Malware Analysis Service - powered by Falcon Sandbox",
-          "type": "url",
-          "url": "https://www.hybrid-analysis.com/"
-        },
-        {
-          "date_added": "13344016005137606",
-          "date_last_used": "0",
-          "guid": "a47392df-ffb5-438a-b305-2a09a07ecadf",
-          "id": "308",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Your Free URL Unshortener Tool | Check Short URL",
-          "type": "url",
-          "url": "https://checkshorturl.com/"
-        },
-        {
-          "date_added": "13345577152797860",
-          "date_last_used": "0",
-          "guid": "c42ad7a1-eacb-4821-ac5a-2e44b4002126",
-          "id": "310",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Tmux Cheat Sheet & Quick Reference",
-          "type": "url",
-          "url": "https://tmuxcheatsheet.com/"
-        },
-        {
-          "date_added": "13344013766432658",
-          "date_last_used": "0",
-          "guid": "804d8f5b-f157-469c-bf71-4c5de7453a42",
-          "id": "307",
-          "meta_info": {
-            "power_bookmark_meta": ""
-          },
-          "name": "Ransomware Group Sites",
-          "type": "url",
-          "url": "http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/"
+          "date_modified": "13358526949470887",
+          "guid": "7de5bdfd-b625-4042-91b1-7788a6367e02",
+          "id": "513",
+          "name": "CTI",
+          "type": "folder"
         }
       ],
       "date_added": "13343410563125732",
       "date_last_used": "0",
-      "date_modified": "13354192714162686",
+      "date_modified": "13358526824124915",
       "guid": "ed6c3769-aae5-46f6-9f5d-9dab453f2687",
       "id": "296",
       "name": "tools",
