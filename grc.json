@@ -76,7 +76,7 @@
         },
         {
           "date_added": "13360074109660737",
-          "date_last_used": "13360082234873697",
+          "date_last_used": "0",
           "guid": "cf4f1aae-ccee-45ae-82ad-1ce3721b0341",
           "id": "531",
           "meta_info": {
@@ -251,20 +251,1270 @@
           "name": "CISSP Exam Cram Full Course (All 8 Domains) - Covers latest exam! - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=_nyZhYnCNLA"
+        },
+        {
+          "date_added": "13360268981006437",
+          "date_last_used": "0",
+          "guid": "2ae51591-fa73-47af-99c3-8231a81fed58",
+          "id": "549",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "CISSP Exam Cram - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD"
         }
       ],
       "date_added": "13360168559004601",
       "date_last_used": "0",
-      "date_modified": "13360168566468356",
+      "date_modified": "13360268981006437",
       "guid": "3e9c0916-457a-42d7-8f2d-8b62ec437ce0",
       "id": "545",
       "name": "cissp",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13360408673332609",
+          "date_last_used": "13361615695124093",
+          "guid": "8d40edb8-2bb0-4a6d-8c64-4a8d43616521",
+          "id": "552",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Security+ Exam Cram - 2024 Edition - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n"
+        },
+        {
+          "date_added": "13360844511930617",
+          "date_last_used": "0",
+          "guid": "d398895a-5d41-42b2-8121-10d6767c38a6",
+          "id": "555",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "CompTIA SY0-701 Security+ Training Course - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv"
+        },
+        {
+          "date_added": "13361291983298262",
+          "date_last_used": "0",
+          "guid": "d9c81cc8-967a-4490-b10c-831e433afb6e",
+          "id": "562",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "CompTIA SY0-701 Security+ Study Groups - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PLG49S3nxzAnlmSGiDiVBF7Tr-tGLQhqyA"
+        },
+        {
+          "date_added": "13361292050912275",
+          "date_last_used": "0",
+          "guid": "87a87f1b-c2fc-4fef-ba0f-ba45502c5a89",
+          "id": "564",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Security+ Certification SY0-701 50 Practice Questions - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=yPqSLJG8Rt0"
+        },
+        {
+          "date_added": "13361292089298339",
+          "date_last_used": "0",
+          "guid": "6fee20fe-804e-43ab-a774-c81a4932f2bb",
+          "id": "565",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "SYO-701 Security+ Practice Exams - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PLIsEyzUoUVmBJk0ZqxExnII_3Ac38Coet"
+        },
+        {
+          "date_added": "13361292237563128",
+          "date_last_used": "0",
+          "guid": "3bc94dde-98dd-4961-bfd4-58d1e03bf7ad",
+          "id": "566",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Free Security+ (SY0-701) Practice Questions",
+          "type": "url",
+          "url": "https://lognpacific.com/free-certification-practice-tests/free-security-sy0-701-practice-questions/"
+        }
+      ],
+      "date_added": "13360408220919227",
+      "date_last_used": "0",
+      "date_modified": "13361292237563128",
+      "guid": "a9d518de-9ecf-4ee8-a78c-b88d8bdb39db",
+      "id": "551",
+      "name": "security+",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13361387334843958",
+          "date_last_used": "0",
+          "guid": "06274d32-e411-4c93-a1d3-741af6cb37a4",
+          "id": "569",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "CompTIA CySA+ Full Course (CS0-003) - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13361446684577757",
+              "date_last_used": "0",
+              "guid": "58ae1b45-1ad6-4468-9642-19c8b1b3f94e",
+              "id": "571",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "johariwindowmodeldiagram.pdf",
+              "type": "url",
+              "url": "https://www.businessballs.com/johariwindowmodeldiagram.pdf"
+            },
+            {
+              "date_added": "13361446697183693",
+              "date_last_used": "0",
+              "guid": "583b9aff-3f34-4023-8655-8fe2002dbe05",
+              "id": "572",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Advanced Persistent Threat (APT) Groups & Threat Actors",
+              "type": "url",
+              "url": "https://www.mandiant.com/resources/insights/apt-groups"
+            },
+            {
+              "date_added": "13361446701407667",
+              "date_last_used": "0",
+              "guid": "889a9364-930b-42f1-9cba-bd61bfd12808",
+              "id": "573",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "theZoo/malware/Binaries at master · andreiciorba/theZoo · GitHub",
+              "type": "url",
+              "url": "https://github.com/andreiciorba/theZoo/tree/master/malware/Binaries"
+            },
+            {
+              "date_added": "13361446705735354",
+              "date_last_used": "0",
+              "guid": "687da583-320f-4435-a220-e95b4e9fcb36",
+              "id": "574",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Quickstart · EmpireProject/Empire Wiki · GitHub",
+              "type": "url",
+              "url": "https://github.com/EmpireProject/Empire/wiki/Quickstart"
+            },
+            {
+              "date_added": "13361446710671517",
+              "date_last_used": "0",
+              "guid": "4b2fa613-6da6-41f6-9e56-66d0799122f4",
+              "id": "575",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "What is the dark web? How to access it and what you’ll find | CSO Online",
+              "type": "url",
+              "url": "https://www.csoonline.com/article/564313/what-is-the-dark-web-how-to-access-it-and-what-youll-find.html"
+            },
+            {
+              "date_added": "13361446716991913",
+              "date_last_used": "0",
+              "guid": "379708da-9284-4f86-a82a-456b6fc8d87e",
+              "id": "576",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Latest zero-day exploit news | The Daily Swig",
+              "type": "url",
+              "url": "https://portswigger.net/daily-swig/zero-day"
+            },
+            {
+              "date_added": "13361446908121987",
+              "date_last_used": "0",
+              "guid": "ec030d8e-dae7-48dd-aa54-3d42b2b6aef0",
+              "id": "578",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Reputation Center - A Real Time Threat Detection Service || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence",
+              "type": "url",
+              "url": "https://talosintelligence.com/reputation"
+            },
+            {
+              "date_added": "13361446916137890",
+              "date_last_used": "0",
+              "guid": "30a6c96a-c940-4661-88d4-71bb17dbc4b0",
+              "id": "579",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Examples",
+              "type": "url",
+              "url": "https://oasis-open.github.io/cti-documentation/stix/examples.html"
+            },
+            {
+              "date_added": "13361446919766010",
+              "date_last_used": "0",
+              "guid": "951810c4-ce80-4eac-ad59-4ce57f72ba46",
+              "id": "580",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Introduction to TAXII",
+              "type": "url",
+              "url": "https://oasis-open.github.io/cti-documentation/taxii/intro.html"
+            },
+            {
+              "date_added": "13361446925610004",
+              "date_last_used": "0",
+              "guid": "24c4a679-4607-46ee-bef3-f6ffc6753680",
+              "id": "581",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "IOC Bucket - IOC Details",
+              "type": "url",
+              "url": "https://www.iocbucket.com/iocs/aaa9aca5462bb716d645a6efc49c1d451181d317"
+            },
+            {
+              "date_added": "13361446936439146",
+              "date_last_used": "0",
+              "guid": "4f978104-8496-4ce8-9965-9e953047e9c4",
+              "id": "582",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "IOC Bucket - Most Recent IOCs Uploaded",
+              "type": "url",
+              "url": "https://www.iocbucket.com/"
+            },
+            {
+              "date_added": "13361446943369759",
+              "date_last_used": "0",
+              "guid": "a3cd4418-6baf-44ce-99a1-e4cf26bb3ccb",
+              "id": "583",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "MISP Open Source Threat Intelligence Platform &amp; Open Standards For Threat Information Sharing",
+              "type": "url",
+              "url": "https://misp-project.org/"
+            },
+            {
+              "date_added": "13361446949536334",
+              "date_last_used": "0",
+              "guid": "99a3ee04-7f10-4688-be56-5a68dda2d7ba",
+              "id": "584",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "IBM X-Force Exchange",
+              "type": "url",
+              "url": "https://exchange.xforce.ibmcloud.com/"
+            },
+            {
+              "date_added": "13362065136670048",
+              "date_last_used": "0",
+              "guid": "5c8d24f8-d057-4a2f-8d91-34c4650d2378",
+              "id": "631",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Should I Block It?",
+              "type": "url",
+              "url": "https://shouldiblockit.com/"
+            },
+            {
+              "date_added": "13362065163001763",
+              "date_last_used": "0",
+              "guid": "905f0414-cf51-4b08-9ee3-4883ae046556",
+              "id": "632",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Sysinternals Utilities - Sysinternals | Microsoft Learn",
+              "type": "url",
+              "url": "https://learn.microsoft.com/en-us/sysinternals/downloads/"
+            },
+            {
+              "date_added": "13362065166865254",
+              "date_last_used": "0",
+              "guid": "8016e3d4-efca-4df7-86fc-e5283bc9cbee",
+              "id": "633",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Data Staged, Technique T1074 - Enterprise | MITRE ATT&CK®",
+              "type": "url",
+              "url": "https://attack.mitre.org/techniques/T1074/"
+            },
+            {
+              "date_added": "13362065171958975",
+              "date_last_used": "0",
+              "guid": "900c0f5c-e009-447d-aafd-1985e3853773",
+              "id": "634",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cisco Secure Endpoint (Formerly AMP for Endpoints) - Cisco",
+              "type": "url",
+              "url": "https://www.cisco.com/site/us/en/products/security/endpoint-security/secure-endpoint/index.html"
+            },
+            {
+              "date_added": "13362078408412439",
+              "date_last_used": "0",
+              "guid": "29f1a1e0-a039-4abc-b77f-273fc8055c73",
+              "id": "657",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Free DNS Reputation Check Tool (Quad9, Comodo DNS, Yandex.DNS, SafeDNS) | IPVoid",
+              "type": "url",
+              "url": "https://www.ipvoid.com/dns-reputation/"
+            },
+            {
+              "date_added": "13362078417413070",
+              "date_last_used": "0",
+              "guid": "79ed900b-643d-4fca-92ff-9adc40a16a92",
+              "id": "658",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "domain_generation_algorithms/chinad/example_domains.txt at master · baderj/domain_generation_algorithms · GitHub",
+              "type": "url",
+              "url": "https://github.com/baderj/domain_generation_algorithms/blob/master/chinad/example_domains.txt"
+            },
+            {
+              "date_added": "13362078426758330",
+              "date_last_used": "0",
+              "guid": "bd4d5e07-36d7-4c71-85af-7a264ed26dcf",
+              "id": "659",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "IP and Domain Reputation Center || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence",
+              "type": "url",
+              "url": "https://talosintelligence.com/reputation_center/"
+            },
+            {
+              "date_added": "13362150385566729",
+              "date_last_used": "0",
+              "guid": "5bc31768-2ca9-46ee-ad6f-ae31dc553fec",
+              "id": "670",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Email Header Analyzer, RFC822 Parser - MxToolbox",
+              "type": "url",
+              "url": "https://mxtoolbox.com/EmailHeaders.aspx"
+            },
+            {
+              "date_added": "13362150393278719",
+              "date_last_used": "0",
+              "guid": "a882216c-f2ef-4471-95b6-d72e0de39fbc",
+              "id": "671",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Message Header Analyzer",
+              "type": "url",
+              "url": "https://mha.azurewebsites.net/"
+            },
+            {
+              "date_added": "13362150413040670",
+              "date_last_used": "0",
+              "guid": "c6381d9c-bf0a-457e-b3c3-5d4640081f90",
+              "id": "672",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Microsoft Remote Connectivity Analyzer: Test Input",
+              "type": "url",
+              "url": "https://testconnectivity.microsoft.com/tests/OutboundSMTP/input"
+            }
+          ],
+          "date_added": "13361446882379938",
+          "date_last_used": "0",
+          "date_modified": "13362150413040670",
+          "guid": "c1e5a7b5-fd8a-4752-b409-00b805431aa9",
+          "id": "577",
+          "name": "Threat intel and IOC",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13361448680152089",
+              "date_last_used": "0",
+              "guid": "12f14503-3078-4f88-8149-36da7eb027ae",
+              "id": "587",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "diamond_summary.pdf",
+              "type": "url",
+              "url": "https://www.activeresponse.org/wp-content/uploads/2013/07/diamond_summary.pdf"
+            },
+            {
+              "date_added": "13361448688768582",
+              "date_last_used": "0",
+              "guid": "e36649cd-ab59-4fc5-809f-8d2c88ed05d8",
+              "id": "588",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "MITRE ATT&CK®",
+              "type": "url",
+              "url": "https://attack.mitre.org/"
+            },
+            {
+              "date_added": "13361448694064175",
+              "date_last_used": "0",
+              "guid": "eef3154a-61ba-4207-9bec-bcd7e7df9321",
+              "id": "589",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cyber Kill Chain model and framework explained",
+              "type": "url",
+              "url": "https://cybersecurity.att.com/blogs/security-essentials/the-internal-cyber-kill-chain-model"
+            },
+            {
+              "date_added": "13361448697036415",
+              "date_last_used": "0",
+              "guid": "01d1bbab-343c-47b7-be44-a7234580b38c",
+              "id": "590",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cyber Kill Chain® | Lockheed Martin",
+              "type": "url",
+              "url": "https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html"
+            },
+            {
+              "date_added": "13361457442395286",
+              "date_last_used": "0",
+              "guid": "eaf6c729-dd54-4bff-a0da-92e5809928eb",
+              "id": "591",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cyber Threat Modeling: Survey, Assessment, and Representative Framework",
+              "type": "url",
+              "url": "https://www.mitre.org/sites/default/files/2021-11/prs-18-1174-ngci-cyber-threat-modeling.pdf"
+            }
+          ],
+          "date_added": "13361448662833673",
+          "date_last_used": "0",
+          "date_modified": "13361457442395286",
+          "guid": "7fe628bc-5769-4102-8a9b-71870f448003",
+          "id": "585",
+          "name": "Attack framework",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13361460574285690",
+              "date_last_used": "0",
+              "guid": "2d87fffe-9b0c-43b6-a89d-f9be804c23d6",
+              "id": "593",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "CVE - CVE",
+              "type": "url",
+              "url": "https://cve.mitre.org/"
+            },
+            {
+              "date_added": "13361460590395335",
+              "date_last_used": "0",
+              "guid": "ca42be4c-e947-406f-b3e1-c9460e1be989",
+              "id": "594",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "NCP - CCE Details",
+              "type": "url",
+              "url": "https://ncp.nist.gov/cce"
+            },
+            {
+              "date_added": "13361460604031722",
+              "date_last_used": "0",
+              "guid": "318f6e21-9d98-4e9c-9f2e-ee4c607b0d54",
+              "id": "595",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "CWE - Common Weakness Enumeration",
+              "type": "url",
+              "url": "https://cwe.mitre.org/"
+            },
+            {
+              "date_added": "13361460614875124",
+              "date_last_used": "0",
+              "guid": "7501c0c4-f821-4527-8b9c-57c9c835118d",
+              "id": "596",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "CAPEC - Common Attack Pattern Enumeration and Classification (CAPEC™)",
+              "type": "url",
+              "url": "https://capec.mitre.org/"
+            },
+            {
+              "date_added": "13361460620061252",
+              "date_last_used": "0",
+              "guid": "75ecbe89-e0ed-477c-9f80-d344cf4b1ca7",
+              "id": "597",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "OVAL - Open Vulnerability and Assessment Language",
+              "type": "url",
+              "url": "https://oval.mitre.org/"
+            },
+            {
+              "date_added": "13361460627753323",
+              "date_last_used": "0",
+              "guid": "22a98684-bb0b-4e4e-ac14-aabe6bffb15f",
+              "id": "598",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Security Content Automation Protocol | CSRC",
+              "type": "url",
+              "url": "https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf"
+            },
+            {
+              "date_added": "13361460631189575",
+              "date_last_used": "0",
+              "guid": "24470ede-86bd-43e1-ac61-1bf0b1b8fd7a",
+              "id": "599",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Common Vulnerability Scoring System SIG",
+              "type": "url",
+              "url": "https://www.first.org/cvss/"
+            }
+          ],
+          "date_added": "13361460550496976",
+          "date_last_used": "0",
+          "date_modified": "13361472693988509",
+          "guid": "6eac27ac-580b-4be8-b94d-cd6c23cd2e7e",
+          "id": "592",
+          "name": "Vulnerabilities",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13361475481709156",
+              "date_last_used": "0",
+              "guid": "f5b7402d-9911-475e-9fdc-0e7b6dcbba5d",
+              "id": "602",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Manifesto for Agile Software Development",
+              "type": "url",
+              "url": "https://agilemanifesto.org/"
+            },
+            {
+              "date_added": "13361475488445759",
+              "date_last_used": "0",
+              "guid": "04bebd6c-7725-4c77-938f-4afaf4ee111b",
+              "id": "603",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Formations en cybersécurité | Certifications et recherche SANS",
+              "type": "url",
+              "url": "https://www.sans.org/fr_fr/"
+            },
+            {
+              "date_added": "13361475499099317",
+              "date_last_used": "0",
+              "guid": "1bf21cb9-ce5a-419c-9dcb-7f12f17f4bdf",
+              "id": "604",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation",
+              "type": "url",
+              "url": "https://owasp.org/"
+            },
+            {
+              "date_added": "13361475502669298",
+              "date_last_used": "0",
+              "guid": "210a64f3-5a72-47cc-9502-eea62106cfb7",
+              "id": "605",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "OWASP Software Security Assurance Process - OWASP",
+              "type": "url",
+              "url": "https://wiki.owasp.org/index.php/OWASP_Software_Security_Assurance_Process"
+            },
+            {
+              "date_added": "13361475507105033",
+              "date_last_used": "0",
+              "guid": "1a56f834-1d92-486b-85b7-d14a5d0b0c31",
+              "id": "606",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Microsoft Security Development Lifecycle",
+              "type": "url",
+              "url": "https://www.microsoft.com/en-us/securityengineering/sdl"
+            },
+            {
+              "date_added": "13361477554890145",
+              "date_last_used": "0",
+              "guid": "0ec1d9aa-52e6-4560-a117-ee24b8f431ef",
+              "id": "607",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Input Validation - OWASP Cheat Sheet Series",
+              "type": "url",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html"
+            },
+            {
+              "date_added": "13361477558504091",
+              "date_last_used": "0",
+              "guid": "0f4fb87c-077e-4a9a-b2d4-93658f3ba152",
+              "id": "608",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Using HTTP cookies - HTTP | MDN",
+              "type": "url",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies"
+            },
+            {
+              "date_added": "13361477562532326",
+              "date_last_used": "0",
+              "guid": "6cac55f4-0d74-4bbf-8ebc-6cce157a3c31",
+              "id": "609",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Vault by HashiCorp",
+              "type": "url",
+              "url": "https://www.vaultproject.io/"
+            },
+            {
+              "date_added": "13361552630151590",
+              "date_last_used": "0",
+              "guid": "4d5cae84-3e0c-4301-a2d1-defc3a7845f8",
+              "id": "611",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Source Code Security Analyzers | NIST",
+              "type": "url",
+              "url": "https://www.nist.gov/itl/ssd/software-quality-group/source-code-security-analyzers"
+            },
+            {
+              "date_added": "13361552635091589",
+              "date_last_used": "0",
+              "guid": "bcba18a5-8b99-47cc-addc-a0088e73cfda",
+              "id": "612",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Formal Reasoning About the Security of AWS (Invited Paper)",
+              "type": "url",
+              "url": "https://d1.awsstatic.com/Security/pdfs/Formal_Reasoning_About_The_Security_of_Amazon_Web_Services.pdf"
+            },
+            {
+              "date_added": "13361552639691754",
+              "date_last_used": "0",
+              "guid": "c07b2000-3eed-4687-ab91-82d481d44a0f",
+              "id": "613",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "vulnerables/web-dvwa - Docker Image | Docker Hub",
+              "type": "url",
+              "url": "https://hub.docker.com/r/vulnerables/web-dvwa"
+            },
+            {
+              "date_added": "13361558290712556",
+              "date_last_used": "0",
+              "guid": "0cc5af49-5ed0-4259-a691-f68013e35b4a",
+              "id": "614",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Authentication - OWASP Cheat Sheet Series",
+              "type": "url",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html"
+            }
+          ],
+          "date_added": "13361475478223502",
+          "date_last_used": "0",
+          "date_modified": "13361558290712556",
+          "guid": "71d173ce-2e49-4ca0-93c8-ef283e4a5e55",
+          "id": "601",
+          "name": "Secure development",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13361902491848286",
+              "date_last_used": "0",
+              "guid": "986b1519-fa32-46ba-b9ab-b567b56804c1",
+              "id": "617",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "hashcat - advanced password recovery",
+              "type": "url",
+              "url": "https://hashcat.net/hashcat/"
+            },
+            {
+              "date_added": "13361902496230963",
+              "date_last_used": "0",
+              "guid": "3c75bbae-2097-4572-8cb0-ecd5152068aa",
+              "id": "618",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Medusa - Penetration Testing Tools",
+              "type": "url",
+              "url": "https://en.kali.tools/?p=200"
+            },
+            {
+              "date_added": "13361902499722630",
+              "date_last_used": "0",
+              "guid": "a6a3d885-a83f-4240-bb1f-7358b7404f63",
+              "id": "619",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "hydra | Kali Linux Tools",
+              "type": "url",
+              "url": "https://www.kali.org/tools/hydra/"
+            },
+            {
+              "date_added": "13361902503426634",
+              "date_last_used": "0",
+              "guid": "ac5c5b97-fa7e-475c-9863-dc6d5a6487f8",
+              "id": "620",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "MD5 Hash Generator Online",
+              "type": "url",
+              "url": "https://md5hashgenerator.net/"
+            },
+            {
+              "date_added": "13361902507363299",
+              "date_last_used": "0",
+              "guid": "01559169-323f-492a-9d30-130a7dd55cee",
+              "id": "621",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Hash Calculator Online — String & File Hash Generator",
+              "type": "url",
+              "url": "https://www.pelock.com/products/hash-calculator"
+            },
+            {
+              "date_added": "13361902511094627",
+              "date_last_used": "0",
+              "guid": "6006133d-1b01-4718-9d47-17aee6fe5db9",
+              "id": "622",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Free Rainbow Tables",
+              "type": "url",
+              "url": "https://freerainbowtables.com/"
+            },
+            {
+              "date_added": "13361902517590544",
+              "date_last_used": "0",
+              "guid": "74413ce1-ae00-44ce-8460-2f7a380541fb",
+              "id": "623",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "rainbowcrack | Kali Linux Tools",
+              "type": "url",
+              "url": "https://www.kali.org/tools/rainbowcrack/"
+            },
+            {
+              "date_added": "13361908231228880",
+              "date_last_used": "0",
+              "guid": "6f897948-a588-452f-9fa0-2ee4b8ed6ec6",
+              "id": "624",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "John the Ripper password cracker",
+              "type": "url",
+              "url": "https://www.openwall.com/john/"
+            },
+            {
+              "date_added": "13362061784159233",
+              "date_last_used": "0",
+              "guid": "8313c20c-9291-468d-ba82-b7ceac655ef2",
+              "id": "626",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - iagox86/dnscat2",
+              "type": "url",
+              "url": "https://github.com/iagox86/dnscat2"
+            },
+            {
+              "date_added": "13362061830252997",
+              "date_last_used": "0",
+              "guid": "6c61ff8d-f9f6-436a-b486-ca753c9c924b",
+              "id": "627",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Netcat – SecTools Top Network Security Tools",
+              "type": "url",
+              "url": "https://sectools.org/tool/netcat/"
+            },
+            {
+              "date_added": "13362061837403703",
+              "date_last_used": "0",
+              "guid": "70eebd2b-24ae-4e8b-b8ad-1e58d3520e23",
+              "id": "628",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "socat(1): Multipurpose relay - Linux man page",
+              "type": "url",
+              "url": "https://linux.die.net/man/1/socat"
+            },
+            {
+              "date_added": "13362061842258994",
+              "date_last_used": "0",
+              "guid": "74687808-50d3-431c-9b25-4382b8567af1",
+              "id": "629",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Pupy - Penetration Testing Tools",
+              "type": "url",
+              "url": "https://en.kali.tools/?p=932"
+            },
+            {
+              "date_added": "13362063335443904",
+              "date_last_used": "0",
+              "guid": "435ae196-f329-43ae-8cd5-d386a4dc9f5a",
+              "id": "630",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cryptcat - an overview | ScienceDirect Topics",
+              "type": "url",
+              "url": "https://www.sciencedirect.com/topics/computer-science/cryptcat"
+            }
+          ],
+          "date_added": "13361902480637733",
+          "date_last_used": "0",
+          "date_modified": "13362065136670048",
+          "guid": "e106ca3b-1b5a-4cd1-840c-6db5843aa4ff",
+          "id": "616",
+          "name": "att&ck tools",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13362066607236253",
+              "date_last_used": "0",
+              "guid": "eac14b5d-2130-4deb-b7b1-299ce4133dfa",
+              "id": "636",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Fox DataDiode - Fox IT",
+              "type": "url",
+              "url": "https://www.fox-it.com/nl-en/fox-crypto/fox-datadiode/"
+            },
+            {
+              "date_added": "13362071898402717",
+              "date_last_used": "0",
+              "guid": "9a8e3748-7887-4144-84b6-b5dd47d4797b",
+              "id": "649",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "OpenCanary — OpenCanary 0.9 documentation",
+              "type": "url",
+              "url": "https://opencanary.readthedocs.io/en/latest/"
+            },
+            {
+              "date_added": "13362071903002508",
+              "date_last_used": "0",
+              "guid": "3249eeb6-f309-43e9-bd32-8f443661f1ec",
+              "id": "650",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - lanmaster53/honeybadger",
+              "type": "url",
+              "url": "https://github.com/lanmaster53/honeybadger"
+            },
+            {
+              "date_added": "13362071905474886",
+              "date_last_used": "0",
+              "guid": "02318b32-4bab-4f08-971f-a6e6f8551736",
+              "id": "651",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Software Restriction Policies | Microsoft Learn",
+              "type": "url",
+              "url": "https://learn.microsoft.com/en-us/windows-server/identity/software-restriction-policies/software-restriction-policies"
+            },
+            {
+              "date_added": "13362071907718736",
+              "date_last_used": "0",
+              "guid": "8368a886-9a46-4fe2-b594-2f2398e4e645",
+              "id": "652",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Understand Windows Defender Application Control (WDAC) policy rules and file rules - Windows Security | Microsoft Learn",
+              "type": "url",
+              "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/select-types-of-rules-to-create"
+            },
+            {
+              "date_added": "13362071910055003",
+              "date_last_used": "0",
+              "guid": "48225fda-8ac9-45b9-9a80-10c76d8cc1b3",
+              "id": "653",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "AppLocker - Windows Security | Microsoft Learn",
+              "type": "url",
+              "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/applocker-overview"
+            },
+            {
+              "date_added": "13362071912434521",
+              "date_last_used": "0",
+              "guid": "1bec7821-72a3-4d9f-979f-4f707e8394f1",
+              "id": "654",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "AppArmor - Ubuntu Wiki",
+              "type": "url",
+              "url": "https://wiki.ubuntu.com/AppArmor"
+            },
+            {
+              "date_added": "13362071914542743",
+              "date_last_used": "0",
+              "guid": "2fb43564-0d83-4f5e-9f3a-4bad422ec72f",
+              "id": "655",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "SELinux Wiki",
+              "type": "url",
+              "url": "https://selinuxproject.org/page/Main_Page"
+            },
+            {
+              "date_added": "13362137833144656",
+              "date_last_used": "0",
+              "guid": "c44aa340-8dba-4388-b051-e100081f65a8",
+              "id": "666",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Certificate Transparency : Certificate Transparency",
+              "type": "url",
+              "url": "https://certificate.transparency.dev/"
+            },
+            {
+              "date_added": "13362137896070304",
+              "date_last_used": "0",
+              "guid": "358591a2-70b7-4527-a2fa-77bd6902d817",
+              "id": "668",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "TLS/SSL Certificate Tools and Support | DigiCert",
+              "type": "url",
+              "url": "https://www.digicert.com/tools"
+            }
+          ],
+          "date_added": "13362066586295370",
+          "date_last_used": "0",
+          "date_modified": "13362148229906309",
+          "guid": "af55a6e3-b0d1-495e-b128-7caf8aef36b6",
+          "id": "635",
+          "name": "Secure configuration and architecture",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13362069616182578",
+              "date_last_used": "0",
+              "guid": "aa015cde-2ef4-4920-9623-941b034071b7",
+              "id": "638",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Understanding SPAN,RSPAN,and ERSPAN - Cisco Community",
+              "type": "url",
+              "url": "https://community.cisco.com/t5/networking-knowledge-base/understanding-span-rspan-and-erspan/ta-p/3144951"
+            },
+            {
+              "date_added": "13362069623531419",
+              "date_last_used": "0",
+              "guid": "723fb96a-0365-468e-98a6-e7135fb2769d",
+              "id": "639",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "NetworkMiner - The NSM and Network Forensics Analysis Tool ⛏",
+              "type": "url",
+              "url": "https://www.netresec.com/?page=networkminer"
+            },
+            {
+              "date_added": "13362069630235913",
+              "date_last_used": "0",
+              "guid": "221f66ff-1e28-4ee6-bc54-4f4411213be6",
+              "id": "640",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "15. File Extraction — Suricata 4.1.0-dev documentation",
+              "type": "url",
+              "url": "https://docs.suricata.io/en/suricata-4.1.2/file-extraction/file-extraction.html#file-store-and-eve-fileinfo"
+            },
+            {
+              "date_added": "13362069633706674",
+              "date_last_used": "0",
+              "guid": "9b7837b8-35e7-42f8-a404-8486a7a09c6a",
+              "id": "641",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "IP Flow Information Export (IPFIX) Entities",
+              "type": "url",
+              "url": "https://www.iana.org/assignments/ipfix/ipfix.xhtml"
+            },
+            {
+              "date_added": "13362069637403072",
+              "date_last_used": "0",
+              "guid": "6f4e5269-7ee4-4e8e-8e5c-a788ba9ff667",
+              "id": "642",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "NetFlow Analyzer - Analyze Remote Network Bandwidth Traffic | SolarWinds",
+              "type": "url",
+              "url": "https://www.solarwinds.com/netflow-traffic-analyzer"
+            },
+            {
+              "date_added": "13362069642146237",
+              "date_last_used": "0",
+              "guid": "32f82d92-0ed3-49b2-bb0a-df0c9707209f",
+              "id": "643",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "NetFlow Traffic Analyzer | Real-Time NetFlow Analysis - ManageEngine NetFlow Analyzer",
+              "type": "url",
+              "url": "https://www.manageengine.com/products/netflow/"
+            },
+            {
+              "date_added": "13362069645642665",
+              "date_last_used": "0",
+              "guid": "cf827ea6-c321-4a9e-8fe6-8c7dc3471e97",
+              "id": "644",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cisco Secure Network Analytics (formerly Stealthwatch) Data Sheet - Cisco",
+              "type": "url",
+              "url": "https://www.cisco.com/c/en/us/products/collateral/security/stealthwatch/datasheet-c78-739398.html"
+            },
+            {
+              "date_added": "13362069656903511",
+              "date_last_used": "0",
+              "guid": "44932d16-77ef-4bc0-833f-079e2a5f9e80",
+              "id": "645",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "SiLK",
+              "type": "url",
+              "url": "https://tools.netsa.cert.org/silk/"
+            },
+            {
+              "date_added": "13362069659827324",
+              "date_last_used": "0",
+              "guid": "2ea63959-f3fb-4c5f-ab4c-b1321f8684ed",
+              "id": "646",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "ARGUS- Auditing Network Activity - Argus and Netflow",
+              "type": "url",
+              "url": "https://qosient.com/argus/argusnetflow.shtml"
+            },
+            {
+              "date_added": "13362069662742693",
+              "date_last_used": "0",
+              "guid": "4b0b4518-4e40-42cb-a3b1-5ffbe187f679",
+              "id": "647",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "The Zeek Network Security Monitor",
+              "type": "url",
+              "url": "https://zeek.org/"
+            },
+            {
+              "date_added": "13362069668598047",
+              "date_last_used": "0",
+              "guid": "290a23b2-7751-4c1b-ad71-83f83b3c1bc0",
+              "id": "648",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "MRTG - Tobi Oetiker's MRTG - The Multi Router Traffic Grapher",
+              "type": "url",
+              "url": "https://oss.oetiker.ch/mrtg/"
+            },
+            {
+              "date_added": "13362074758734327",
+              "date_last_used": "0",
+              "guid": "acc51d3f-f3f6-4234-8acb-c6cf0564de04",
+              "id": "656",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Bogon filtering - Wikipedia",
+              "type": "url",
+              "url": "https://en.wikipedia.org/wiki/Bogon_filtering"
+            }
+          ],
+          "date_added": "13362069601063605",
+          "date_last_used": "0",
+          "date_modified": "13362078408412439",
+          "guid": "499f4680-cf11-4b94-849c-8a7191f77a2b",
+          "id": "637",
+          "name": "Network analysis",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13362136717561593",
+              "date_last_used": "0",
+              "guid": "df3fc74f-aa21-489e-a493-0a367546ccf0",
+              "id": "662",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Nikto 2.5 | CIRT.net",
+              "type": "url",
+              "url": "https://cirt.net/Nikto2"
+            },
+            {
+              "date_added": "13362136724726975",
+              "date_last_used": "0",
+              "guid": "ae8d9e30-6de2-4287-972c-00b9f52dcfed",
+              "id": "663",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Arachni - Web Application Security Scanner Framework – Ecsypno",
+              "type": "url",
+              "url": "https://ecsypno.com/pages/arachni-web-application-security-scanner-framework"
+            },
+            {
+              "date_added": "13362136730090119",
+              "date_last_used": "0",
+              "guid": "2cc7dee3-d8d0-4325-833e-d419455c1404",
+              "id": "664",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Download Burp Suite Community Edition - PortSwigger",
+              "type": "url",
+              "url": "https://portswigger.net/burp/communitydownload"
+            },
+            {
+              "date_added": "13362136734949454",
+              "date_last_used": "0",
+              "guid": "09d4f254-7844-48b3-af0a-bd104565005e",
+              "id": "665",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "404 - Not Found | OWASP Foundation",
+              "type": "url",
+              "url": "https://owasp.org/www-project-zap/"
+            }
+          ],
+          "date_added": "13362136704070793",
+          "date_last_used": "0",
+          "date_modified": "13362137833144656",
+          "guid": "cafcf13e-f04b-43c7-8f61-26b86c8f18e4",
+          "id": "661",
+          "name": "App scanning",
+          "type": "folder"
+        },
+        {
+          "date_added": "13362148229906309",
+          "date_last_used": "0",
+          "guid": "0664ba43-98c4-44a5-84ac-b048bbdf8247",
+          "id": "669",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "CertifyBreakfast CompTIA CySAPlus Slides PDF.zip - Google Drive",
+          "type": "url",
+          "url": "https://drive.google.com/file/d/18i65IYXD9nDrHpCif6ba1CVDY6c-lami/view"
+        }
+      ],
+      "date_added": "13361387329333666",
+      "date_last_used": "0",
+      "date_modified": "13362150385566729",
+      "guid": "1f70f682-2e1b-4294-92ef-8a2f0dbc6116",
+      "id": "568",
+      "name": "cysa+",
       "type": "folder"
     }
   ],
   "date_added": "13360058726724823",
   "date_last_used": "0",
-  "date_modified": "13360168561724194",
+  "date_modified": "13361387334843958",
   "guid": "b503334c-e350-474e-a3b0-3c431c486c72",
   "id": "522",
   "name": "grc",

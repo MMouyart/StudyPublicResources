@@ -230,11 +230,35 @@
               "name": "World Imagery Wayback",
               "type": "url",
               "url": "https://livingatlas.arcgis.com/wayback/#active=12457&mapCenter=-115.301%2C36.065%2C17"
+            },
+            {
+              "date_added": "13360924822329542",
+              "date_last_used": "0",
+              "guid": "94640fab-f264-4ba9-b498-eedea61e4191",
+              "id": "557",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Router Passwords Community Database - The Wireless Router Experts",
+              "type": "url",
+              "url": "https://www.routerpasswords.com/"
+            },
+            {
+              "date_added": "13360956800392026",
+              "date_last_used": "0",
+              "guid": "3f3b4c31-cc37-4e48-a31b-d36c6a388388",
+              "id": "558",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "osintframework - Brave Search",
+              "type": "url",
+              "url": "https://search.brave.com/search?q=osintframework&source=desktop"
             }
           ],
           "date_added": "13358526799322769",
           "date_last_used": "0",
-          "date_modified": "13358527025040886",
+          "date_modified": "13360956800392026",
           "guid": "d24449e1-c28e-4067-94f6-edfc10ecc1a7",
           "id": "512",
           "name": "software",
@@ -592,11 +616,23 @@
           "name": "What are XOR encryption and decryption?",
           "type": "url",
           "url": "https://www.educative.io/answers/what-are-xor-encryption-and-decryption"
+        },
+        {
+          "date_added": "13357741610044039",
+          "date_last_used": "0",
+          "guid": "d79ae2fb-23e0-4a44-a140-1d624baf6372",
+          "id": "498",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "GitHub - olafhartong/sysmon-cheatsheet: All sysmon event types and their fields explained",
+          "type": "url",
+          "url": "https://github.com/olafhartong/sysmon-cheatsheet"
         }
       ],
       "date_added": "13354192749772131",
       "date_last_used": "0",
-      "date_modified": "13354192753094375",
+      "date_modified": "13361274903655854",
       "guid": "322f6390-44b1-4735-8497-4edc56c2ff47",
       "id": "372",
       "name": "Tips and tricks",
