@@ -244,21 +244,81 @@
               "url": "https://www.routerpasswords.com/"
             },
             {
-              "date_added": "13360956800392026",
+              "date_added": "13362754669110145",
               "date_last_used": "0",
-              "guid": "3f3b4c31-cc37-4e48-a31b-d36c6a388388",
-              "id": "558",
+              "guid": "f74c5efc-3225-446b-88e8-9980f471f191",
+              "id": "692",
               "meta_info": {
                 "power_bookmark_meta": ""
               },
-              "name": "osintframework - Brave Search",
+              "name": "OSINT Framework",
               "type": "url",
-              "url": "https://search.brave.com/search?q=osintframework&source=desktop"
+              "url": "https://osintframework.com/"
+            },
+            {
+              "date_added": "13369160025354918",
+              "date_last_used": "0",
+              "guid": "0f0596c6-5a7c-4ad1-b9fa-de795d8d892b",
+              "id": "734",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - fabacab/awesome-cybersecurity-blueteam: :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+              "type": "url",
+              "url": "https://github.com/fabacab/awesome-cybersecurity-blueteam?tab=readme-ov-file"
+            },
+            {
+              "date_added": "13369160516692748",
+              "date_last_used": "0",
+              "guid": "b569d82c-6cb7-4bd6-abcd-9e48055522b1",
+              "id": "735",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - A-poc/BlueTeam-Tools: Tools and Techniques for Blue Team / Incident Response",
+              "type": "url",
+              "url": "https://github.com/A-poc/BlueTeam-Tools?tab=readme-ov-file"
+            },
+            {
+              "date_added": "13369160939512468",
+              "date_last_used": "0",
+              "guid": "2f7891df-7ec8-4904-ad29-edd574b3109b",
+              "id": "736",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - 0x6d69636b/windows_hardening: HardeningKitty and Windows Hardening Settings",
+              "type": "url",
+              "url": "https://github.com/0x6d69636b/windows_hardening"
+            },
+            {
+              "date_added": "13369217230139593",
+              "date_last_used": "0",
+              "guid": "9bea0465-8148-4c1e-9fb2-510bd026f3e7",
+              "id": "741",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - fabacab/awesome-cybersecurity-blueteam: :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+              "type": "url",
+              "url": "https://github.com/fabacab/awesome-cybersecurity-blueteam?tab=readme-ov-file#security-orchestration-automation-and-response-soar"
+            },
+            {
+              "date_added": "13369217243043293",
+              "date_last_used": "0",
+              "guid": "351b788b-beec-465b-b0b7-a77cf8e7590f",
+              "id": "742",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Top 30+ Best Blue Team Tools for CyberSecurity Teams",
+              "type": "url",
+              "url": "https://securitytrails.com/blog/blue-team-tools"
             }
           ],
           "date_added": "13358526799322769",
           "date_last_used": "0",
-          "date_modified": "13360956800392026",
+          "date_modified": "13369217243043293",
           "guid": "d24449e1-c28e-4067-94f6-edfc10ecc1a7",
           "id": "512",
           "name": "software",
@@ -313,11 +373,35 @@
               "name": "OWASP TorBot | OWASP Foundation",
               "type": "url",
               "url": "https://owasp.org/www-project-torbot/"
+            },
+            {
+              "date_added": "13369156859434392",
+              "date_last_used": "0",
+              "guid": "1a7412b6-e3f1-46ce-bfff-a973c00df1d0",
+              "id": "731",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - last-byte/PersistenceSniper: Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with ❤️ by @last0x00 and @dottor_morte",
+              "type": "url",
+              "url": "https://github.com/last-byte/PersistenceSniper"
+            },
+            {
+              "date_added": "13369157268912398",
+              "date_last_used": "0",
+              "guid": "29f1b635-d1d4-48ee-bd26-6c161ab3ae05",
+              "id": "732",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - admindroid-community/powershell-scripts: Office 365 Reporting PowerShell Scripts",
+              "type": "url",
+              "url": "https://github.com/admindroid-community/powershell-scripts"
             }
           ],
           "date_added": "13358526824124684",
           "date_last_used": "0",
-          "date_modified": "13358526949470887",
+          "date_modified": "13369160025354918",
           "guid": "7de5bdfd-b625-4042-91b1-7788a6367e02",
           "id": "513",
           "name": "CTI",
@@ -593,11 +677,47 @@
           "name": "Windows Server Administration Fundamentals | Microsoft Learn",
           "type": "url",
           "url": "https://learn.microsoft.com/fr-fr/shows/windows-server-administration-fundamentals/"
+        },
+        {
+          "date_added": "13363349050639050",
+          "date_last_used": "0",
+          "guid": "57320ad6-7f56-4096-a3c7-9a1ff6e99e36",
+          "id": "725",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "BlackPerl - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/@BlackPerl/videos"
+        },
+        {
+          "date_added": "13363449947068111",
+          "date_last_used": "0",
+          "guid": "72c6cabe-3ffc-4a8c-97cb-74af9dba5070",
+          "id": "727",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "How to disable ICMP timestamp responses in Linux | GoLinuxCloud",
+          "type": "url",
+          "url": "https://www.golinuxcloud.com/disable-icmp-timestamp-responses-in-linux/"
+        },
+        {
+          "date_added": "13363449951905594",
+          "date_last_used": "0",
+          "guid": "45815ded-469c-4134-8e0e-a48b63a62408",
+          "id": "728",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "30+ firewalld command Examples [Rules Cheat Sheet] | GoLinuxCloud",
+          "type": "url",
+          "url": "https://www.golinuxcloud.com/firewalld-cheat-sheet/"
         }
       ],
       "date_added": "13354192718795065",
       "date_last_used": "0",
-      "date_modified": "13354192754890278",
+      "date_modified": "13369156859434392",
       "guid": "6786d4b3-cb3c-44a7-8565-56478651a461",
       "id": "371",
       "name": "Learning",

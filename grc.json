@@ -277,7 +277,7 @@
       "children": [
         {
           "date_added": "13360408673332609",
-          "date_last_used": "13361615695124093",
+          "date_last_used": "0",
           "guid": "8d40edb8-2bb0-4a6d-8c64-4a8d43616521",
           "id": "552",
           "meta_info": {
@@ -1501,20 +1501,269 @@
           "name": "CertifyBreakfast CompTIA CySAPlus Slides PDF.zip - Google Drive",
           "type": "url",
           "url": "https://drive.google.com/file/d/18i65IYXD9nDrHpCif6ba1CVDY6c-lami/view"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13362222222405837",
+              "date_last_used": "0",
+              "guid": "273c36bc-23cc-4b7c-ac4d-6ef8468d0178",
+              "id": "675",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Overview - Microsoft Defender for Cloud Apps | Microsoft Learn",
+              "type": "url",
+              "url": "https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps"
+            },
+            {
+              "date_added": "13362222227357503",
+              "date_last_used": "0",
+              "guid": "0e13cf0a-1369-40b7-8e31-cab14d8f0f7b",
+              "id": "676",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cloud Security | Oracle",
+              "type": "url",
+              "url": "https://www.oracle.com/security/cloud-security/"
+            },
+            {
+              "date_added": "13362222229505349",
+              "date_last_used": "0",
+              "guid": "31b4297c-c465-46e8-8223-3f261b2611a1",
+              "id": "677",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Cisco Cloudlock - Cisco",
+              "type": "url",
+              "url": "https://www.cisco.com/c/en/us/products/security/cloudlock/index.html"
+            },
+            {
+              "date_added": "13362222231838546",
+              "date_last_used": "0",
+              "guid": "00c56495-d42e-4ade-8855-1a6ae2af33fe",
+              "id": "678",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool",
+              "type": "url",
+              "url": "https://github.com/nccgroup/ScoutSuite"
+            },
+            {
+              "date_added": "13362222233613575",
+              "date_last_used": "0",
+              "guid": "6c6919e8-9f3e-43d3-b006-fef0b8794b87",
+              "id": "679",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - prowler-cloud/prowler: Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more",
+              "type": "url",
+              "url": "https://github.com/prowler-cloud/prowler"
+            },
+            {
+              "date_added": "13362222236053469",
+              "date_last_used": "0",
+              "guid": "4c3c15f2-f6c9-4a17-94a8-f079a64c69c7",
+              "id": "680",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "CIS Center for Internet Security",
+              "type": "url",
+              "url": "https://www.cisecurity.org/"
+            },
+            {
+              "date_added": "13362222238505313",
+              "date_last_used": "0",
+              "guid": "cf079735-f468-4a4f-8e1b-c3a7194d5b8f",
+              "id": "681",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Pacu",
+              "type": "url",
+              "url": "https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/"
+            },
+            {
+              "date_added": "13362222247757260",
+              "date_last_used": "0",
+              "guid": "21177683-5eff-4c04-b470-dd6918b620e8",
+              "id": "682",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "GitHub - RhinoSecurityLabs/pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+              "type": "url",
+              "url": "https://github.com/RhinoSecurityLabs/pacu"
+            }
+          ],
+          "date_added": "13362222207656145",
+          "date_last_used": "0",
+          "date_modified": "13362222247757260",
+          "guid": "67de2f45-71e3-456c-a92a-5cc8083962fa",
+          "id": "674",
+          "name": "Cloud",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13362225649476913",
+              "date_last_used": "0",
+              "guid": "cf5cd3a7-533a-4673-b3ad-90790672d021",
+              "id": "684",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "OpenText Encase Forensic",
+              "type": "url",
+              "url": "https://www.opentext.com/products/encase-forensic"
+            },
+            {
+              "date_added": "13362225658316185",
+              "date_last_used": "0",
+              "guid": "c285d127-2b01-4338-9a6d-7653d07a2ab4",
+              "id": "685",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Data Risk Management - Data Discovery & Privacy Platform | Exterro",
+              "type": "url",
+              "url": "https://www.exterro.com/"
+            },
+            {
+              "date_added": "13362225660784371",
+              "date_last_used": "0",
+              "guid": "ce0e73aa-85f5-4e80-8690-ccc4385daaea",
+              "id": "686",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "The Sleuth Kit (TSK) & Autopsy: Open Source Digital Forensics Tools",
+              "type": "url",
+              "url": "https://sleuthkit.org/"
+            },
+            {
+              "date_added": "13362225672316529",
+              "date_last_used": "0",
+              "guid": "0a79ceda-ce8d-469e-aca5-2ab9b6963296",
+              "id": "687",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "FireEye Market",
+              "type": "url",
+              "url": "https://fireeye.market/"
+            },
+            {
+              "date_added": "13362225675841067",
+              "date_last_used": "0",
+              "guid": "66072a67-4f1a-4c2d-973d-a12300bad99a",
+              "id": "688",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "F-Response TACTICAL",
+              "type": "url",
+              "url": "https://f-response.com/software/tac"
+            },
+            {
+              "date_added": "13362225679396496",
+              "date_last_used": "0",
+              "guid": "727e7baa-fb3b-4f3c-9428-27eed9ae7daf",
+              "id": "689",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Magnet RAM Capture - Magnet Forensics",
+              "type": "url",
+              "url": "https://www.magnetforensics.com/resources/magnet-ram-capture/"
+            },
+            {
+              "date_added": "13362225685889424",
+              "date_last_used": "0",
+              "guid": "00aff0f3-f0e1-4e06-bbe6-b1c1795587c8",
+              "id": "690",
+              "meta_info": {
+                "power_bookmark_meta": ""
+              },
+              "name": "Sample-Chain-of-Custody-Form.docx",
+              "type": "url",
+              "url": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.nist.gov%2Fsystem%2Ffiles%2Fdocuments%2F2017%2F04%2F28%2FSample-Chain-of-Custody-Form.docx&wdOrigin=BROWSELINK"
+            }
+          ],
+          "date_added": "13362225646884082",
+          "date_last_used": "0",
+          "date_modified": "13362754669110145",
+          "guid": "6a760ee1-9cac-4686-9bea-066751bac714",
+          "id": "683",
+          "name": "Forensics",
+          "type": "folder"
         }
       ],
       "date_added": "13361387329333666",
       "date_last_used": "0",
-      "date_modified": "13362150385566729",
+      "date_modified": "13362225649476913",
       "guid": "1f70f682-2e1b-4294-92ef-8a2f0dbc6116",
       "id": "568",
       "name": "cysa+",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "date_added": "13363173218646721",
+          "date_last_used": "0",
+          "guid": "9b3301d2-41ee-49f9-b987-7ab915c6284e",
+          "id": "717",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ITIL In 1 Minute | What Is ITIL? | ITIL Tutorial For Beginners | ITIL Foundation | Simplilearn - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=wgnpfMK8vDk"
+        },
+        {
+          "date_added": "13363173559363729",
+          "date_last_used": "0",
+          "guid": "f3cc384d-9861-4b66-82bf-87b0965962b0",
+          "id": "718",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ITIL® 4 Foundation - eLearning course - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/playlist?list=PLkfP3Wl3g435Awuv0Q2E6F8ZfpZIB6HtS"
+        },
+        {
+          "date_added": "13363176458177993",
+          "date_last_used": "0",
+          "guid": "54a23adf-3bb1-47f2-86b2-8a2de830bfbd",
+          "id": "719",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "ITIL 4 Tutorial for Beginners | What is ITIL? | ITIL 4 Foundation Training | Invensis Learning - YouTube",
+          "type": "url",
+          "url": "https://www.youtube.com/watch?v=nRsVb1j9jyo"
+        }
+      ],
+      "date_added": "13363173213497819",
+      "date_last_used": "0",
+      "date_modified": "13363176991263957",
+      "guid": "dc3be42a-136e-424b-b504-fc0a7427392d",
+      "id": "716",
+      "name": "Itil",
       "type": "folder"
     }
   ],
   "date_added": "13360058726724823",
   "date_last_used": "0",
-  "date_modified": "13361387334843958",
+  "date_modified": "13363173218646721",
   "guid": "b503334c-e350-474e-a3b0-3c431c486c72",
   "id": "522",
   "name": "grc",

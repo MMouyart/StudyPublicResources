@@ -297,11 +297,71 @@
           "name": "Linux, Visually: PAM - YouTube",
           "type": "url",
           "url": "https://www.youtube.com/watch?v=eHGzzCtJg0A"
+        },
+        {
+          "date_added": "13363277983654671",
+          "date_last_used": "0",
+          "guid": "4ffc7231-279d-4c89-b588-d728ca38e7fb",
+          "id": "722",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Linux security tools (top 100) - Linux Security Expert",
+          "type": "url",
+          "url": "https://linuxsecurity.expert/security-tools/top-100/"
+        },
+        {
+          "date_added": "13363278174331944",
+          "date_last_used": "0",
+          "guid": "db5308c3-f75d-4ed3-8d7f-1f57892868a1",
+          "id": "723",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Security tools - Linux Security Expert",
+          "type": "url",
+          "url": "https://linuxsecurity.expert/security-tools/"
+        },
+        {
+          "date_added": "13369217059180790",
+          "date_last_used": "0",
+          "guid": "3800e21a-3722-48c5-8c93-75c40068655c",
+          "id": "738",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "A Complete Guide to Managing Log Files with Logrotate | Better Stack Community",
+          "type": "url",
+          "url": "https://betterstack.com/community/guides/logging/how-to-manage-log-files-with-logrotate-on-ubuntu-20-04/#running-commands-or-scripts-before-or-after-log-rotation"
+        },
+        {
+          "date_added": "13369217082148935",
+          "date_last_used": "0",
+          "guid": "26d4551b-68e4-45ec-9bc7-860dd32f7ff1",
+          "id": "739",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "Les Meilleurs Outils d’Administrateur Système pour les informaticiens",
+          "type": "url",
+          "url": "https://www.ninjaone.com/fr/blog/meilleurs-outils-administrateur-systeme-pour-les-professionnels-it/"
+        },
+        {
+          "date_added": "13369217097360102",
+          "date_last_used": "0",
+          "guid": "ffa33138-bec1-4080-a260-07bdec462e76",
+          "id": "740",
+          "meta_info": {
+            "power_bookmark_meta": ""
+          },
+          "name": "aports/main/nftables/nftables.nft at 5fb99cfa8dd7081477426ed885b2e385c0278fce · alpinelinux/aports · GitHub",
+          "type": "url",
+          "url": "https://github.com/alpinelinux/aports/blob/5fb99cfa8dd7081477426ed885b2e385c0278fce/main/nftables/nftables.nft"
         }
       ],
       "date_added": "13354192637319173",
       "date_last_used": "0",
-      "date_modified": "13354383540931470",
+      "date_modified": "13369217230139593",
       "guid": "eb3e66dc-3f84-4178-a899-b55c166c9fc0",
       "id": "366",
       "name": "Learning",
